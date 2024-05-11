@@ -1,0 +1,69 @@
+Projeto SO
+
+
+	Mobile user:
+		Registo inicial - //
+		Shared Mem - X
+		Pedido - //
+		Named_Pipe - //
+		Terminar - X
+
+	BackOffice User:
+		Receber pela MesQueue - X
+		Solicitar stat -//
+		Solicitar reset -//
+		named pipe -//
+
+	System Manager:
+		
+		Config File -//
+		Auth Request Manager e Monitor Engine - //
+		Message Queue - //
+		Shared Mem - /X
+		Log File - /X
+		Capturar SIGINT - X
+
+	Auth Request Manager:
+
+		Criar Named Pipes - //
+		Criar unnamed pipes para Auth Eng - X
+		Criar threads receiver e sender - /X
+		Criar estruturas internas Video_Queue e Other_Queue - X
+		Criar e remover processos Auth Engine - X
+
+	Receiver:
+
+		Receber e ler os pipes - //
+		Colocar nas respetivas Queues - X
+		Fila Cheia - X
+
+	Sender:
+
+		Ler Filas e entregar ao Auth Engine - X
+		Lidar com Filas Cheias - X
+		Tempo processamento por tarefa - X
+		Tempo limite por tarefa - X
+		unnamed pipe para o Auth Engine
+	
+	Auth Engine:
+	
+		Registo inicial - X
+		Pedido de Autorização - X
+		Pedido de estatistica - X
+		Reset estatisticas - X
+
+	Monitor Engine:
+	
+		Verificar plafond e gerar alertas - X
+		Enviar Estatisticas periodicas - X
+		
+	pa
+	LOG PARA TUDO - /X
+
+	TERMINAR DE FORMA CONTROLADA - X
+
+		
+
+		
+	
+		

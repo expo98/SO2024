@@ -1,0 +1,375 @@
+2024-05-10 03:28:36 - Início do programa
+2024-05-10 03:28:51 - Início do programa
+2024-05-10 03:28:51 - Processo System Manager criado
+2024-05-10 03:28:51 - Processo Monitor Engine criado
+2024-05-10 03:28:51 - Processo Auth Request Manager criado
+2024-05-10 03:28:51 - Limite plafond atingido
+2024-05-10 03:28:51 - Fim do programa
+2024-05-10 05:22:04 - Início do programa
+2024-05-10 05:22:11 - Início do programa
+2024-05-10 05:22:11 - Processo System Manager criado
+2024-05-10 05:22:11 - Processo Monitor Engine criado
+2024-05-10 05:22:11 - Processo Auth Request Manager criado
+2024-05-10 05:22:11 - Limite plafond atingido
+2024-05-10 05:22:11 - Fim do programa
+2024-05-10 05:23:52 - Início do programa
+2024-05-10 05:23:52 - Processo System Manager criado
+2024-05-10 05:23:52 - Processo Monitor Engine criado
+2024-05-10 05:23:52 - Processo Auth Request Manager criado
+2024-05-10 05:23:52 - Limite plafond atingido
+2024-05-10 05:23:52 - Fim do programa
+2024-05-10 05:24:42 - Início do programa
+2024-05-10 05:24:42 - Processo System Manager criado
+2024-05-10 05:24:42 - Processo Monitor Engine criado
+2024-05-10 05:24:42 - Processo Auth Request Manager criado
+2024-05-10 05:24:42 - Limite plafond atingido
+2024-05-10 05:25:46 - Início do programa
+2024-05-10 05:25:46 - Processo System Manager criado
+2024-05-10 05:25:46 - Processo Monitor Engine criado
+2024-05-10 05:25:46 - Processo Auth Request Manager criado
+2024-05-10 05:25:46 - Limite plafond atingido
+2024-05-10 05:27:05 - Início do programa
+2024-05-10 05:27:05 - Processo System Manager criado
+2024-05-10 05:27:06 - Processo Monitor Engine criado
+2024-05-10 05:27:06 - Limite plafond atingido
+2024-05-10 05:27:06 - Processo Auth Request Manager criado
+2024-05-10 05:27:19 - Início do programa
+2024-05-10 05:27:19 - Processo System Manager criado
+2024-05-10 05:27:19 - Processo Monitor Engine criado
+2024-05-10 05:27:19 - Processo Auth Request Manager criado
+2024-05-10 05:27:19 - Limite plafond atingido
+2024-05-10 05:30:05 - Início do programa
+2024-05-10 05:30:05 - Processo System Manager criado
+2024-05-10 05:30:05 - Processo Monitor Engine criado
+2024-05-10 05:30:05 - Processo Auth Request Manager criado
+2024-05-10 05:30:05 - Limite plafond atingido
+2024-05-10 05:31:38 - Início do programa
+2024-05-10 05:31:38 - Processo System Manager criado
+2024-05-10 05:31:38 - Processo Monitor Engine criado
+2024-05-10 05:31:38 - Processo Auth Request Manager criado
+2024-05-10 05:31:38 - Limite plafond atingido
+2024-05-10 05:32:45 - Início do programa
+2024-05-10 05:32:45 - Processo System Manager criado
+2024-05-10 05:32:45 - Processo Monitor Engine criado
+2024-05-10 05:32:45 - Processo Auth Request Manager criado
+2024-05-10 05:32:45 - Limite plafond atingido
+2024-05-10 05:33:38 - Início do programa
+2024-05-10 05:33:38 - Processo System Manager criado
+2024-05-10 05:33:38 - Processo Monitor Engine criado
+2024-05-10 05:33:38 - Processo Auth Request Manager criado
+2024-05-10 05:33:38 - Limite plafond atingido
+2024-05-10 05:34:26 - Início do programa
+2024-05-10 05:34:26 - Processo System Manager criado
+2024-05-10 05:34:26 - Processo Monitor Engine criado
+2024-05-10 05:34:26 - Processo Auth Request Manager criado
+2024-05-10 05:34:26 - Limite plafond atingido
+2024-05-10 05:39:15 - Início do programa
+2024-05-10 05:39:15 - Processo System Manager criado
+2024-05-10 05:39:15 - Processo Monitor Engine criado
+2024-05-10 05:39:15 - Processo Auth Request Manager criado
+2024-05-10 05:39:15 - Limite plafond atingido
+2024-05-10 05:39:49 - Fim do programa
+2024-05-10 05:40:40 - Início do programa
+2024-05-10 05:40:40 - Processo System Manager criado
+2024-05-10 05:40:40 - Processo Monitor Engine criado
+2024-05-10 05:40:40 - Processo Auth Request Manager criado
+2024-05-10 05:40:40 - Limite plafond atingido
+2024-05-10 05:41:23 - Fim do programa
+2024-05-10 05:43:51 - Início do programa
+2024-05-10 05:43:51 - Processo System Manager criado
+2024-05-10 05:43:51 - Processo Monitor Engine criado
+2024-05-10 05:43:51 - Processo Auth Request Manager criado
+2024-05-10 05:43:51 - Limite plafond atingido
+2024-05-10 05:44:26 - Fim do programa
+2024-05-10 05:46:04 - Início do programa
+2024-05-10 05:46:04 - Processo System Manager criado
+2024-05-10 05:46:04 - Processo Monitor Engine criado
+2024-05-10 05:46:04 - Processo Auth Request Manager criado
+2024-05-10 05:46:04 - Limite plafond atingido
+2024-05-10 05:46:23 - Fim do programa
+2024-05-10 05:46:54 - Início do programa
+2024-05-10 05:46:54 - Processo System Manager criado
+2024-05-10 05:46:54 - Processo Monitor Engine criado
+2024-05-10 05:46:54 - Processo Auth Request Manager criado
+2024-05-10 05:46:54 - Limite plafond atingido
+2024-05-10 05:46:54 - Fim do programa
+2024-05-10 05:47:07 - Início do programa
+2024-05-10 05:47:07 - Processo System Manager criado
+2024-05-10 05:47:07 - Processo Monitor Engine criado
+2024-05-10 05:47:07 - Processo Auth Request Manager criado
+2024-05-10 05:47:07 - Limite plafond atingido
+2024-05-10 05:47:42 - Fim do programa
+2024-05-10 05:49:01 - Início do programa
+2024-05-10 05:49:01 - Processo System Manager criado
+2024-05-10 05:49:01 - Processo Monitor Engine criado
+2024-05-10 05:49:01 - Processo Auth Request Manager criado
+2024-05-10 05:49:01 - Limite plafond atingido
+2024-05-10 05:49:45 - Início do programa
+2024-05-10 05:49:45 - Processo System Manager criado
+2024-05-10 05:49:45 - Processo Monitor Engine criado
+2024-05-10 05:49:45 - Processo Auth Request Manager criado
+2024-05-10 05:49:45 - Limite plafond atingido
+2024-05-10 05:50:32 - Início do programa
+2024-05-10 05:50:32 - Processo System Manager criado
+2024-05-10 05:50:32 - Processo Monitor Engine criado
+2024-05-10 05:50:32 - Processo Auth Request Manager criado
+2024-05-10 05:50:32 - Limite plafond atingido
+2024-05-10 11:25:17 - Início do programa
+2024-05-10 11:25:17 - Processo System Manager criado
+2024-05-10 11:25:17 - Processo Monitor Engine criado
+2024-05-10 11:25:17 - Limite plafond atingido
+2024-05-10 11:25:17 - Processo Auth Request Manager criado
+2024-05-10 11:29:16 - Início do programa
+2024-05-10 11:29:16 - Processo System Manager criado
+2024-05-10 11:29:16 - Processo Monitor Engine criado
+2024-05-10 11:29:16 - Processo Auth Request Manager criado
+2024-05-10 11:29:16 - Limite plafond atingido
+2024-05-10 11:35:00 - Início do programa
+2024-05-10 11:35:00 - Processo System Manager criado
+2024-05-10 11:35:00 - Processo Monitor Engine criado
+2024-05-10 11:35:00 - Processo Auth Request Manager criado
+2024-05-10 11:35:00 - Limite plafond atingido
+2024-05-10 11:41:10 - Início do programa
+2024-05-10 11:41:10 - Processo System Manager criado
+2024-05-10 11:41:10 - Processo Monitor Engine criado
+2024-05-10 11:41:10 - Processo Auth Request Manager criado
+2024-05-10 11:41:10 - Limite plafond atingido
+2024-05-10 11:42:53 - Início do programa
+2024-05-10 11:42:53 - Processo System Manager criado
+2024-05-10 11:42:53 - Processo Monitor Engine criado
+2024-05-10 11:42:53 - Processo Auth Request Manager criado
+2024-05-10 11:42:53 - Limite plafond atingido
+2024-05-10 11:47:38 - Início do programa
+2024-05-10 11:47:38 - Processo System Manager criado
+2024-05-10 11:47:38 - Processo Monitor Engine criado
+2024-05-10 11:47:38 - Processo Auth Request Manager criado
+2024-05-10 11:47:38 - Limite plafond atingido
+2024-05-10 11:51:42 - Início do programa
+2024-05-10 11:51:42 - Processo System Manager criado
+2024-05-10 11:51:42 - Processo Monitor Engine criado
+2024-05-10 11:51:42 - Processo Auth Request Manager criado
+2024-05-10 11:51:42 - Limite plafond atingido
+2024-05-10 11:55:52 - Início do programa
+2024-05-10 11:55:52 - Processo System Manager criado
+2024-05-10 11:55:52 - Processo Monitor Engine criado
+2024-05-10 11:55:52 - Processo Auth Request Manager criado
+2024-05-10 11:55:52 - Limite plafond atingido
+2024-05-10 11:56:27 - Fim do programa
+2024-05-10 12:04:38 - Início do programa
+2024-05-10 12:04:38 - Processo System Manager criado
+2024-05-10 12:04:38 - Processo Monitor Engine criado
+2024-05-10 12:04:38 - Processo Auth Request Manager criado
+2024-05-10 12:04:38 - Limite plafond atingido
+2024-05-10 12:12:16 - Início do programa
+2024-05-10 12:12:16 - Processo System Manager criado
+2024-05-10 12:12:16 - Processo Monitor Engine criado
+2024-05-10 12:12:16 - Processo Auth Request Manager criado
+2024-05-10 12:12:16 - Limite plafond atingido
+2024-05-10 12:15:20 - Início do programa
+2024-05-10 12:15:20 - Processo System Manager criado
+2024-05-10 12:15:20 - Processo Monitor Engine criado
+2024-05-10 12:15:20 - Processo Auth Request Manager criado
+2024-05-10 12:15:20 - Limite plafond atingido
+2024-05-10 12:15:54 - Fim do programa
+2024-05-10 12:27:06 - Início do programa
+2024-05-10 12:27:06 - Processo System Manager criado
+2024-05-10 12:27:06 - Processo Monitor Engine criado
+2024-05-10 12:27:06 - Processo Auth Request Manager criado
+2024-05-10 12:27:06 - Limite plafond atingido
+2024-05-10 12:27:06 - Fim do programa
+2024-05-10 13:33:01 - Início do programa
+2024-05-10 13:33:01 - Processo System Manager criado
+2024-05-10 13:33:01 - Processo Monitor Engine criado
+2024-05-10 13:33:01 - Processo Auth Request Manager criado
+2024-05-10 13:33:01 - Limite plafond atingido
+2024-05-10 13:33:01 - Erro ao abrir o named_pipe
+2024-05-10 13:33:01 - Fim do programa
+2024-05-10 13:36:08 - Início do programa
+2024-05-10 13:36:08 - Processo System Manager criado
+2024-05-10 13:36:08 - Processo Monitor Engine criado
+2024-05-10 13:36:08 - Processo Auth Request Manager criado
+2024-05-10 13:36:08 - Limite plafond atingido
+2024-05-10 13:36:08 - Erro ao criar o named_pipe
+2024-05-10 13:36:08 - Fim do programa
+2024-05-10 13:36:44 - Início do programa
+2024-05-10 13:36:44 - Processo System Manager criado
+2024-05-10 13:36:44 - Processo Monitor Engine criado
+2024-05-10 13:36:44 - Processo Auth Request Manager criado
+2024-05-10 13:36:44 - Limite plafond atingido
+2024-05-10 13:36:44 - Erro ao criar o named_pipe
+2024-05-10 13:36:44 - Fim do programa
+2024-05-10 13:38:07 - Início do programa
+2024-05-10 13:38:07 - Processo System Manager criado
+2024-05-10 13:38:07 - Processo Monitor Engine criado
+2024-05-10 13:38:07 - Processo Auth Request Manager criado
+2024-05-10 13:38:07 - Limite plafond atingido
+2024-05-10 13:38:07 - Erro ao criar o named_pipe
+2024-05-10 13:38:07 - Fim do programa
+2024-05-10 13:38:48 - Início do programa
+2024-05-10 13:38:48 - Processo System Manager criado
+2024-05-10 13:38:48 - Processo Monitor Engine criado
+2024-05-10 13:38:48 - Processo Auth Request Manager criado
+2024-05-10 13:38:48 - Limite plafond atingido
+2024-05-10 13:39:23 - Início do programa
+2024-05-10 13:39:23 - Processo System Manager criado
+2024-05-10 13:39:23 - Processo Monitor Engine criado
+2024-05-10 13:39:23 - Processo Auth Request Manager criado
+2024-05-10 13:39:23 - Limite plafond atingido
+2024-05-10 13:39:23 - Erro ao criar o named_pipe
+2024-05-10 13:39:23 - Fim do programa
+2024-05-10 13:42:36 - Início do programa
+2024-05-10 13:42:36 - Processo System Manager criado
+2024-05-10 13:42:36 - Processo Monitor Engine criado
+2024-05-10 13:42:36 - Processo Auth Request Manager criado
+2024-05-10 13:42:36 - Limite plafond atingido
+2024-05-10 13:43:07 - Início do programa
+2024-05-10 13:43:07 - Processo System Manager criado
+2024-05-10 13:43:07 - Processo Monitor Engine criado
+2024-05-10 13:43:07 - Processo Auth Request Manager criado
+2024-05-10 13:43:07 - Limite plafond atingido
+2024-05-10 13:43:07 - Erro ao criar o named_pipe
+2024-05-10 13:43:07 - Fim do programa
+2024-05-10 13:45:29 - Início do programa
+2024-05-10 13:45:29 - Processo System Manager criado
+2024-05-10 13:45:29 - Processo Monitor Engine criado
+2024-05-10 13:45:29 - Processo Auth Request Manager criado
+2024-05-10 13:45:29 - Limite plafond atingido
+2024-05-10 13:45:39 - Início do programa
+2024-05-10 13:45:39 - Processo System Manager criado
+2024-05-10 13:45:39 - Processo Monitor Engine criado
+2024-05-10 13:45:39 - Processo Auth Request Manager criado
+2024-05-10 13:45:39 - Limite plafond atingido
+2024-05-10 13:45:39 - Erro ao criar o named_pipe
+2024-05-10 13:45:39 - Fim do programa
+2024-05-10 13:47:43 - Início do programa
+2024-05-10 13:47:43 - Erro ao abrir o ficheiro de configuração
+2024-05-10 13:47:50 - Início do programa
+2024-05-10 13:47:50 - Processo System Manager criado
+2024-05-10 13:47:50 - Processo Monitor Engine criado
+2024-05-10 13:47:50 - Processo Auth Request Manager criado
+2024-05-10 13:47:50 - Limite plafond atingido
+2024-05-10 13:47:50 - Erro ao criar o named_pipe
+2024-05-10 13:47:50 - Fim do programa
+2024-05-10 13:47:56 - Início do programa
+2024-05-10 13:47:56 - Processo System Manager criado
+2024-05-10 13:47:56 - Processo Monitor Engine criado
+2024-05-10 13:47:56 - Processo Auth Request Manager criado
+2024-05-10 13:47:56 - Limite plafond atingido
+2024-05-10 13:47:56 - Erro ao criar o named_pipe
+2024-05-10 13:47:56 - Fim do programa
+2024-05-10 13:52:35 - Início do programa
+2024-05-10 13:52:35 - Processo System Manager criado
+2024-05-10 13:52:35 - Processo Monitor Engine criado
+2024-05-10 13:52:35 - Processo Auth Request Manager criado
+2024-05-10 13:52:35 - Limite plafond atingido
+2024-05-10 13:53:14 - Fim do named_pipe
+2024-05-10 13:53:14 - Fim do programa
+2024-05-10 13:54:08 - Início do programa
+2024-05-10 13:54:08 - Processo System Manager criado
+2024-05-10 13:54:08 - Processo Monitor Engine criado
+2024-05-10 13:54:09 - Processo Auth Request Manager criado
+2024-05-10 13:54:09 - Limite plafond atingido
+2024-05-10 13:54:09 - Erro ao criar o named_pipe
+2024-05-10 13:54:09 - Fim do programa
+2024-05-10 13:57:41 - Início do programa
+2024-05-10 13:57:41 - Processo System Manager criado
+2024-05-10 13:57:41 - Processo Monitor Engine criado
+2024-05-10 13:57:41 - Processo Auth Request Manager criado
+2024-05-10 13:57:41 - Limite plafond atingido
+2024-05-10 13:58:19 - Fim do named_pipe
+2024-05-10 13:58:19 - Fim do programa
+2024-05-10 13:58:28 - Início do programa
+2024-05-10 13:58:28 - Processo System Manager criado
+2024-05-10 13:58:28 - Processo Monitor Engine criado
+2024-05-10 13:58:28 - Processo Auth Request Manager criado
+2024-05-10 13:58:28 - Limite plafond atingido
+2024-05-10 13:58:28 - Erro ao criar o named_pipe
+2024-05-10 13:58:28 - Fim do programa
+2024-05-10 16:05:47 - Início do programa
+2024-05-10 16:05:47 - Processo System Manager criado
+2024-05-10 16:05:47 - Processo Auth Request Manager criado
+2024-05-10 16:05:47 - Processo Monitor Engine criado
+2024-05-10 16:05:47 - Limite plafond atingido
+2024-05-10 16:06:36 - Início do programa
+2024-05-10 16:06:36 - Processo System Manager criado
+2024-05-10 16:06:36 - Processo Monitor Engine criado
+2024-05-10 16:06:36 - Processo Auth Request Manager criado
+2024-05-10 16:06:36 - Limite plafond atingido
+2024-05-10 16:07:26 - Início do programa
+2024-05-10 16:07:26 - Processo System Manager criado
+2024-05-10 16:07:26 - Processo Monitor Engine criado
+2024-05-10 16:07:26 - Processo Auth Request Manager criado
+2024-05-10 16:07:26 - Limite plafond atingido
+2024-05-10 16:11:48 - Início do programa
+2024-05-10 16:11:48 - Processo System Manager criado
+2024-05-10 16:11:48 - Processo Monitor Engine criado
+2024-05-10 16:11:48 - Processo Auth Request Manager criado
+2024-05-10 16:11:48 - Limite plafond atingido
+2024-05-10 16:12:18 - Início do programa
+2024-05-10 16:12:18 - Processo System Manager criado
+2024-05-10 16:12:18 - Processo Monitor Engine criado
+2024-05-10 16:12:18 - Processo Auth Request Manager criado
+2024-05-10 16:12:18 - Limite plafond atingido
+2024-05-10 16:12:39 - Início do programa
+2024-05-10 16:12:39 - Processo System Manager criado
+2024-05-10 16:12:39 - Processo Monitor Engine criado
+2024-05-10 16:12:39 - Processo Auth Request Manager criado
+2024-05-10 16:12:39 - Limite plafond atingido
+2024-05-10 16:14:48 - Início do programa
+2024-05-10 16:14:48 - Processo System Manager criado
+2024-05-10 16:14:48 - Processo Monitor Engine criado
+2024-05-10 16:14:48 - Processo Auth Request Manager criado
+2024-05-10 16:14:48 - Limite plafond atingido
+2024-05-10 16:18:55 - Início do programa
+2024-05-10 16:18:55 - Processo System Manager criado
+2024-05-10 16:18:55 - Processo Monitor Engine criado
+2024-05-10 16:18:55 - Processo Auth Request Manager criado
+2024-05-10 16:18:55 - Limite plafond atingido
+2024-05-10 16:19:56 - Início do programa
+2024-05-10 16:19:56 - Processo System Manager criado
+2024-05-10 16:19:56 - Processo Monitor Engine criado
+2024-05-10 16:19:56 - Processo Auth Request Manager criado
+2024-05-10 16:19:56 - Limite plafond atingido
+2024-05-10 16:19:56 - Fim do programa
+2024-05-10 16:22:19 - Início do programa
+2024-05-10 16:22:19 - Processo System Manager criado
+2024-05-10 16:22:19 - Processo Monitor Engine criado
+2024-05-10 16:22:19 - Processo Auth Request Manager criado
+2024-05-10 16:22:19 - Limite plafond atingido
+2024-05-10 19:54:18 - Início do programa
+2024-05-10 19:54:18 - Processo System Manager criado
+2024-05-10 19:54:18 - Processo Monitor Engine criado
+2024-05-10 19:54:18 - Processo Auth Request Manager criado
+2024-05-10 19:54:18 - Limite plafond atingido
+2024-05-10 22:37:06 - Início do programa
+2024-05-10 22:37:06 - Processo System Manager criado
+2024-05-10 22:37:06 - Processo Monitor Engine criado
+2024-05-10 22:37:06 - Processo Auth Request Manager criado
+2024-05-10 22:37:06 - Limite plafond atingido
+2024-05-10 22:52:14 - Início do programa
+2024-05-10 22:52:14 - Processo System Manager criado
+2024-05-10 22:52:14 - Processo Monitor Engine criado
+2024-05-10 22:52:14 - Processo Auth Request Manager criado
+2024-05-10 22:52:14 - Limite plafond atingido
+2024-05-10 22:52:14 - Fim do programa
+2024-05-10 22:52:30 - Início do programa
+2024-05-10 22:52:30 - Processo System Manager criado
+2024-05-10 22:52:30 - Processo Monitor Engine criado
+2024-05-10 22:52:30 - Processo Auth Request Manager criado
+2024-05-10 22:52:30 - Limite plafond atingido
+2024-05-10 22:52:30 - Erro ao criar o named user_pipe
+2024-05-10 22:52:30 - Fim do programa
+2024-05-10 22:52:40 - Início do programa
+2024-05-10 22:52:40 - Processo System Manager criado
+2024-05-10 22:52:40 - Processo Monitor Engine criado
+2024-05-10 22:52:40 - Processo Auth Request Manager criado
+2024-05-10 22:52:40 - Limite plafond atingido
+2024-05-10 22:52:40 - Erro ao criar o named user_pipe
+2024-05-10 22:52:40 - Fim do programa
+2024-05-10 22:56:54 - Início do programa
+2024-05-10 22:56:54 - Processo System Manager criado
+2024-05-10 22:56:54 - Processo Monitor Engine criado
+2024-05-10 22:56:54 - Processo Auth Request Manager criado
+2024-05-10 22:56:54 - Limite plafond atingido
+2024-05-10 22:56:54 - Criação da thread sender
+2024-05-10 22:56:54 - Criação da thread receiver
