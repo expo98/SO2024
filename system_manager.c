@@ -178,6 +178,16 @@ void* receiver_thread(void* args){
                 } else {
                     buf[bytes_read] = '\0';
                     printf("Recebido: %s\n", buf);
+                    
+                    if (sscanf(buf, "%*d#VIDEO#%*d") == 0) {
+                        insere_fila(&f->Video_Streaming_Queue, buf, f->QUEUE_POS++);
+                    }
+                    if (sscanf(buf, "%*d#SOCIAL#%*d") == 0) {
+                        insere_fila(&f->Others_Services_Queue, buf, f->QUEUE_POS++);
+                    }
+                    if (sscanf(buf, "%*d#MUSIC#%*d") == 0) {
+                        insere_fila(&f->Others_Services_Queue, buf, f->QUEUE_POS++);
+                    }
                  }
             }
         }
@@ -203,24 +213,22 @@ void* sender_thread(void* args){
 
     thread_args *t_args = (thread_args*)args;
 
+    filas *f = t_args->f;
     
-    
-    fila VIDEO_QUEUE = t_args->f->Video_Streaming_Queue;
-    fila OTHERS_QUEUE = t_args->f->Others_Services_Queue;
-    no temp_no;
-    while (VIDEO_QUEUE.tamanho>0)
+    fila* VIDEO_QUEUE = &f->Video_Streaming_Queue;
+    fila* OTHERS_QUEUE = &f->Video_Streaming_Queue;
+
+    while (VIDEO_QUEUE->tamanho > 0)
     {
-        write(t_args->fd_pipe_write,VIDEO_QUEUE.inicio->s,sizeof(VIDEO_QUEUE.inicio->s));
-        temp_no = *VIDEO_QUEUE.inicio->prox;
-        *VIDEO_QUEUE.inicio = temp_no;
-        VIDEO_QUEUE.tamanho--;
+        printf("Enviando VIDEO para o unnamed pipe\n");
+        write(t_args->fd_pipe_write,VIDEO_QUEUE->inicio->s,sizeof(VIDEO_QUEUE->inicio->s));
+        retira_fila(VIDEO_QUEUE);
     }
-    while (OTHERS_QUEUE.tamanho>0)
+    while (OTHERS_QUEUE->tamanho>0)
     {
-        write(t_args->fd_pipe_write,OTHERS_QUEUE.inicio->s,sizeof(OTHERS_QUEUE.inicio->s));
-        temp_no = *OTHERS_QUEUE.inicio->prox;
-        *OTHERS_QUEUE.inicio = temp_no;
-        OTHERS_QUEUE.tamanho--;
+        printf("Enviando OTHER para o unnamed pipe\n");
+        write(t_args->fd_pipe_write,OTHERS_QUEUE->inicio->s,sizeof(OTHERS_QUEUE->inicio->s));
+        retira_fila(OTHERS_QUEUE);
     }
     
     
@@ -327,6 +335,7 @@ int main(int argc, char *argv[]) {
     perror("Error creating back_pipe");
     return 1;
 }
+    
 
 printf("Back_pipe was created successfully.\n");
 fflush(stdout);
@@ -376,9 +385,12 @@ fflush(stdout);
         log_msg("Processo Monitor Engine criado");
         log_msg("Limite plafond atingido");
         close(unnamedpipefd[1]); // Fecha o pipe end de writing no Monitor Engine visto que irá apenas ler
-        read(unnamedpipefd[0],buf,BUFSIZ);
-        
-        
+        int count=0;
+        while (count <24)
+        {
+            read(unnamedpipefd[0],buf,BUFSIZ);
+            printf("Leitura de Monitor Engine: %s",buf);
+        }
         return 0;
     }
 

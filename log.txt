@@ -373,3 +373,45 @@
 2024-05-10 22:56:54 - Limite plafond atingido
 2024-05-10 22:56:54 - Criação da thread sender
 2024-05-10 22:56:54 - Criação da thread receiver
+2024-05-11 02:42:39 - Início do programa
+2024-05-11 02:43:02 - Início do programa
+2024-05-11 02:43:02 - Processo System Manager criado
+2024-05-11 02:43:02 - Processo Auth Request Manager criado
+2024-05-11 02:43:02 - Processo Monitor Engine criado
+2024-05-11 02:43:02 - Criação da thread receiver
+2024-05-11 02:43:02 - Limite plafond atingido
+2024-05-11 02:43:02 - Criação da thread sender
+2024-05-11 02:47:57 - Início do programa
+2024-05-11 02:47:57 - Processo System Manager criado
+2024-05-11 02:47:57 - Processo Monitor Engine criado
+2024-05-11 02:47:57 - Limite plafond atingido
+2024-05-11 02:47:57 - Processo Auth Request Manager criado
+2024-05-11 02:47:57 - Criação da thread receiver
+2024-05-11 02:47:57 - Criação da thread sender
+2024-05-11 03:03:35 - Início do programa
+2024-05-11 03:03:35 - Processo System Manager criado
+2024-05-11 03:03:35 - Processo Auth Request Manager criado
+2024-05-11 03:03:35 - Erro ao criar o named user_pipe
+2024-05-11 03:03:35 - Processo Monitor Engine criado
+2024-05-11 03:03:35 - Limite plafond atingido
+2024-05-11 03:08:54 - Início do programa
+2024-05-11 03:08:54 - Processo System Manager criado
+2024-05-11 03:08:54 - Processo Monitor Engine criado
+2024-05-11 03:08:54 - Limite plafond atingido
+2024-05-11 03:08:54 - Processo Auth Request Manager criado
+2024-05-11 03:08:54 - Criação da thread sender
+2024-05-11 03:08:54 - Criação da thread receiver
+2024-05-11 03:11:42 - Início do programa
+2024-05-11 03:11:42 - Processo System Manager criado
+2024-05-11 03:11:42 - Processo Auth Request Manager criado
+2024-05-11 03:11:42 - Processo Monitor Engine criado
+2024-05-11 03:11:42 - Limite plafond atingido
+2024-05-11 03:11:42 - Criação da thread sender
+2024-05-11 03:11:42 - Criação da thread receiver
+2024-05-11 03:17:23 - Início do programa
+2024-05-11 03:17:23 - Processo System Manager criado
+2024-05-11 03:17:23 - Processo Monitor Engine criado
+2024-05-11 03:17:23 - Processo Auth Request Manager criado
+2024-05-11 03:17:23 - Limite plafond atingido
+2024-05-11 03:17:23 - Criação da thread sender
+2024-05-11 03:17:23 - Criação da thread receiver
