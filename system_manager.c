@@ -33,6 +33,7 @@ typedef struct
 } Config;
 
 
+
 typedef struct no {
     char *s;
     struct no* prox;
@@ -54,6 +55,7 @@ typedef struct {
     filas* f;
     int fd;
     int fd_backoffice;
+    int fd_pipe_write;
 } thread_args;
 
 void cria_fila(fila* f){
@@ -195,9 +197,33 @@ void* receiver_thread(void* args){
     return NULL;
 
 }
-
-void* sender_thread(){
+// Sender_thread
+void* sender_thread(void* args){
     log_msg("Criação da thread sender");
+
+    thread_args *t_args = (thread_args*)args;
+
+    
+    
+    fila VIDEO_QUEUE = t_args->f->Video_Streaming_Queue;
+    fila OTHERS_QUEUE = t_args->f->Others_Services_Queue;
+    no temp_no;
+    while (VIDEO_QUEUE.tamanho>0)
+    {
+        write(t_args->fd_pipe_write,VIDEO_QUEUE.inicio->s,sizeof(VIDEO_QUEUE.inicio->s));
+        temp_no = *VIDEO_QUEUE.inicio->prox;
+        *VIDEO_QUEUE.inicio = temp_no;
+        VIDEO_QUEUE.tamanho--;
+    }
+    while (OTHERS_QUEUE.tamanho>0)
+    {
+        write(t_args->fd_pipe_write,OTHERS_QUEUE.inicio->s,sizeof(OTHERS_QUEUE.inicio->s));
+        temp_no = *OTHERS_QUEUE.inicio->prox;
+        *OTHERS_QUEUE.inicio = temp_no;
+        OTHERS_QUEUE.tamanho--;
+    }
+    
+    
     return NULL;
 }
 
@@ -266,6 +292,12 @@ int main(int argc, char *argv[]) {
 
     int *shared_var = (int *)shmat(shmid,NULL, 0);
 
+    int unnamedpipefd[2];
+    if(pipe(unnamedpipefd) == -1){
+        perror("Errocor creating unnamed pipe");
+        return 1;
+    }
+
     pid_t pid = fork();
     if(pid  < 0){
         log_msg("Erro ao criar processo Auth Request Manager");
@@ -321,9 +353,13 @@ fflush(stdout);
     args.f = &f;
     args.fd = fd;
     args.fd_backoffice = fd_backoffice;
+    args.fd_pipe_write = unnamedpipefd[1]; // Passa o write end do pipe para o sender thread
+    close(unnamedpipefd[0]);// Fecha o read end do pipe no Auth Req Manager
 
     pthread_create(&thr_receiver, NULL, receiver_thread, &args);
     pthread_create(&thr_sender, NULL, sender_thread, &args);
+
+    //
 
     pthread_join(thr_receiver, NULL);
     pthread_join(thr_sender, NULL);
@@ -336,10 +372,14 @@ fflush(stdout);
         log_msg("Erro ao criar processo Monitor Engine");
         return 1;
     }else if(pid2 == 0){ // Processo filho, referente ao Monitor Engine
+        char* buf[BUFSIZ];
         log_msg("Processo Monitor Engine criado");
         log_msg("Limite plafond atingido");
+        close(unnamedpipefd[1]); // Fecha o pipe end de writing no Monitor Engine visto que irá apenas ler
+        read(unnamedpipefd[0],buf,BUFSIZ);
+        
+        
         return 0;
-
     }
 
 
