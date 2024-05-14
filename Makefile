@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -g -pthread -Wall -Wextra
+CFLAGS = -g -pthread -Wall -Wextra 
 
 
 all: mobile_user backoffice_user 5g_auth_platform

@@ -31,7 +31,6 @@ void* send_auth_message(void* arg) {
         pthread_mutex_lock(&lock);
         if(max_pedidos_aut > 0) {
             sprintf(buf,"%d#%s#%d \n", ID_mobile_user, data->type, dados_reservar);
-            // Write the message to the named pipe
             ssize_t bytes_written = write(user_pipe_fd, buf, strlen(buf));
             if (bytes_written == -1) {
                 perror("write");
@@ -75,9 +74,14 @@ int main(int argc, char *argv[]) {
     }
 
 
+    //enviar mensagem inicial através do named pipe
+    
 
     sprintf(mensagem_inicial, "%d#%d", ID_mobile_user, plafond_inicial);
-    printf("Mensagem inicial: %s\n", mensagem_inicial);
+    if(write(user_pipe_fd, mensagem_inicial, strlen(mensagem_inicial)) == -1) {
+        perror("Error writing mensagem_inicial to pipe");
+        return 1;
+    }
 
     // Cria as instancias struct para guardar os argmentos necessários para cada thread
     threadData authArgs[3];

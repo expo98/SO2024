@@ -17,4 +17,8 @@
 #include <pthread.h>
 #include <signal.h>
 
+
+//___________________________________________________________
+// Semaphores
+
 #endif

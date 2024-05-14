@@ -415,3 +415,2983 @@
 2024-05-11 03:17:23 - Limite plafond atingido
 2024-05-11 03:17:23 - Criação da thread sender
 2024-05-11 03:17:23 - Criação da thread receiver
+2024-05-11 09:56:39 - Início do programa
+2024-05-11 09:56:39 - Processo System Manager criado
+2024-05-11 09:56:39 - Processo Monitor Engine criado
+2024-05-11 09:56:39 - Processo Auth Request Manager criado
+2024-05-11 09:56:39 - Limite plafond atingido
+2024-05-11 09:56:39 - Criação da thread sender
+2024-05-11 09:56:39 - Criação da thread receiver
+2024-05-11 09:58:04 - Início do programa
+2024-05-11 09:58:04 - Processo System Manager criado
+2024-05-11 09:58:04 - Processo Monitor Engine criado
+2024-05-11 09:58:04 - Processo Auth Request Manager criado
+2024-05-11 09:58:04 - Limite plafond atingido
+2024-05-11 09:58:04 - Criação da thread sender
+2024-05-11 09:58:04 - Criação da thread receiver
+2024-05-11 10:53:34 - Início do programa
+2024-05-11 10:53:34 - Processo System Manager criado
+2024-05-11 10:53:34 - Processo Monitor Engine criado
+2024-05-11 10:53:34 - Processo Auth Request Manager criado
+2024-05-11 10:53:34 - Limite plafond atingido
+2024-05-11 10:53:34 - Criação da thread sender
+2024-05-11 10:53:34 - Criação da thread receiver
+2024-05-11 10:55:33 - Início do programa
+2024-05-11 10:55:33 - Processo System Manager criado
+2024-05-11 10:55:33 - Processo Monitor Engine criado
+2024-05-11 10:55:33 - Processo Auth Request Manager criado
+2024-05-11 10:55:33 - Limite plafond atingido
+2024-05-11 10:55:33 - Criação da thread sender
+2024-05-11 10:55:33 - Criação da thread receiver
+2024-05-11 11:01:09 - Início do programa
+2024-05-11 11:01:09 - Processo System Manager criado
+2024-05-11 11:01:09 - Processo Monitor Engine criado
+2024-05-11 11:01:09 - Processo Auth Request Manager criado
+2024-05-11 11:01:09 - Limite plafond atingido
+2024-05-11 11:01:09 - Criação da thread sender
+2024-05-11 11:01:09 - Criação da thread receiver
+2024-05-11 11:05:31 - Início do programa
+2024-05-11 11:05:31 - Processo System Manager criado
+2024-05-11 11:05:31 - Processo Monitor Engine criado
+2024-05-11 11:05:31 - Processo Auth Request Manager criado
+2024-05-11 11:05:31 - Criação da thread sender
+2024-05-11 11:05:31 - Criação da thread receiver
+2024-05-11 11:24:03 - Início do programa
+2024-05-11 11:24:03 - Processo System Manager criado
+2024-05-11 11:24:03 - Processo Monitor Engine criado
+2024-05-11 11:24:03 - Processo Auth Request Manager criado
+2024-05-11 11:24:03 - Criação da thread sender
+2024-05-11 11:24:03 - Criação da thread receiver
+2024-05-11 11:24:49 - Início do programa
+2024-05-11 11:24:49 - Processo System Manager criado
+2024-05-11 11:24:49 - Processo Monitor Engine criado
+2024-05-11 11:24:49 - Processo Auth Request Manager criado
+2024-05-11 11:24:49 - Criação da thread sender
+2024-05-11 11:24:49 - Criação da thread receiver
+2024-05-11 11:25:26 - Início do programa
+2024-05-11 11:25:26 - Processo System Manager criado
+2024-05-11 11:25:26 - Processo Monitor Engine criado
+2024-05-11 11:25:26 - Processo Auth Request Manager criado
+2024-05-11 11:25:26 - Criação da thread sender
+2024-05-11 11:25:26 - Criação da thread receiver
+2024-05-11 11:26:28 - Início do programa
+2024-05-11 11:26:28 - Processo System Manager criado
+2024-05-11 11:26:28 - Processo Monitor Engine criado
+2024-05-11 11:26:28 - Processo Auth Request Manager criado
+2024-05-11 11:26:28 - Criação da thread sender
+2024-05-11 11:26:28 - Criação da thread receiver
+2024-05-11 11:28:15 - Início do programa
+2024-05-11 11:28:15 - Processo System Manager criado
+2024-05-11 11:28:15 - Processo Monitor Engine criado
+2024-05-11 11:28:15 - Processo Auth Request Manager criado
+2024-05-11 11:28:15 - Criação da thread sender
+2024-05-11 11:28:15 - Criação da thread receiver
+2024-05-11 11:28:57 - Início do programa
+2024-05-11 11:28:57 - Processo System Manager criado
+2024-05-11 11:28:57 - Processo Monitor Engine criado
+2024-05-11 11:28:57 - Processo Auth Request Manager criado
+2024-05-11 11:28:57 - Criação da thread sender
+2024-05-11 11:28:57 - Criação da thread receiver
+2024-05-11 11:29:22 - Início do programa
+2024-05-11 11:29:22 - Processo System Manager criado
+2024-05-11 11:29:22 - Processo Monitor Engine criado
+2024-05-11 11:29:22 - Processo Auth Request Manager criado
+2024-05-11 11:29:22 - Criação da thread sender
+2024-05-11 11:29:22 - Criação da thread receiver
+2024-05-11 11:30:21 - Início do programa
+2024-05-11 11:30:21 - Processo System Manager criado
+2024-05-11 11:30:21 - Processo Monitor Engine criado
+2024-05-11 11:30:21 - Processo Auth Request Manager criado
+2024-05-11 11:30:21 - Criação da thread sender
+2024-05-11 11:30:21 - Criação da thread receiver
+2024-05-11 11:31:12 - Início do programa
+2024-05-11 11:31:12 - Processo System Manager criado
+2024-05-11 11:31:12 - Processo Monitor Engine criado
+2024-05-11 11:31:12 - Processo Auth Request Manager criado
+2024-05-11 11:31:12 - Criação da thread sender
+2024-05-11 11:31:12 - Criação da thread receiver
+2024-05-11 11:39:36 - Início do programa
+2024-05-11 11:39:36 - Processo System Manager criado
+2024-05-11 11:39:36 - Processo Monitor Engine criado
+2024-05-11 11:39:36 - Processo Auth Request Manager criado
+2024-05-11 11:39:36 - Criação da thread sender
+2024-05-11 11:39:36 - Criação da thread receiver
+2024-05-11 11:42:02 - Início do programa
+2024-05-11 11:42:02 - Processo System Manager criado
+2024-05-11 11:42:02 - Processo Monitor Engine criado
+2024-05-11 11:42:02 - Processo Auth Request Manager criado
+2024-05-11 11:42:02 - Criação da thread sender
+2024-05-11 11:42:02 - Criação da thread receiver
+2024-05-11 11:42:10 - Início do programa
+2024-05-11 11:42:10 - Processo System Manager criado
+2024-05-11 11:42:10 - Processo Monitor Engine criado
+2024-05-11 11:42:10 - Processo Auth Request Manager criado
+2024-05-11 11:42:10 - Erro ao criar o named user_pipe
+2024-05-11 11:42:21 - Início do programa
+2024-05-11 11:42:21 - Processo System Manager criado
+2024-05-11 11:42:21 - Processo Monitor Engine criado
+2024-05-11 11:42:21 - Processo Auth Request Manager criado
+2024-05-11 11:42:21 - Criação da thread sender
+2024-05-11 11:42:21 - Criação da thread receiver
+2024-05-11 11:43:45 - Início do programa
+2024-05-11 11:43:45 - Processo System Manager criado
+2024-05-11 11:43:45 - Processo Monitor Engine criado
+2024-05-11 11:43:45 - Processo Auth Request Manager criado
+2024-05-11 11:43:45 - Criação da thread sender
+2024-05-11 11:43:45 - Criação da thread receiver
+2024-05-11 11:45:24 - Início do programa
+2024-05-11 11:45:24 - Processo System Manager criado
+2024-05-11 11:45:24 - Processo Monitor Engine criado
+2024-05-11 11:45:24 - Processo Auth Request Manager criado
+2024-05-11 11:45:24 - Criação da thread sender
+2024-05-11 11:45:24 - Criação da thread receiver
+2024-05-11 11:45:53 - Fila de Outros cheia
+2024-05-11 11:45:54 - Fila de Outros cheia
+2024-05-11 11:45:55 - Fila de Outros cheia
+2024-05-11 11:45:56 - Fila de Outros cheia
+2024-05-11 11:45:57 - Fila de Outros cheia
+2024-05-11 11:45:58 - Fila de Outros cheia
+2024-05-11 16:02:32 - Início do programa
+2024-05-11 16:02:32 - Processo System Manager criado
+2024-05-11 16:02:32 - Processo Monitor Engine criado
+2024-05-11 16:02:32 - Processo Auth Request Manager criado
+2024-05-11 16:02:32 - Criação da thread sender
+2024-05-11 16:02:32 - Criação da thread receiver
+2024-05-11 16:28:39 - Início do programa
+2024-05-11 16:28:39 - Processo System Manager criado
+2024-05-11 16:28:39 - Processo Monitor Engine criado
+2024-05-11 16:28:39 - Processo Auth Request Manager criado
+2024-05-11 16:28:39 - Criação da thread sender
+2024-05-11 16:28:39 - Criação da thread receiver
+2024-05-11 18:29:46 - Início do programa
+2024-05-11 18:29:46 - Processo System Manager criado
+2024-05-11 18:29:46 - Processo Monitor Engine criado
+2024-05-11 18:29:46 - Processo Auth Request Manager criado
+2024-05-11 18:29:46 - Processo Auth Server criado
+2024-05-11 18:29:46 - Processo Auth Server criado
+2024-05-11 18:29:46 - Processo Auth Server criado
+2024-05-11 18:29:46 - Processo Auth Server criado
+2024-05-11 18:29:46 - Processo Auth Server criado
+2024-05-11 18:29:46 - Processo Auth Server criado
+2024-05-11 18:29:46 - Criação da thread sender
+2024-05-11 18:29:46 - Criação da thread receiver
+2024-05-11 18:37:15 - Início do programa
+2024-05-11 18:37:15 - Processo System Manager criado
+2024-05-11 18:37:15 - Processo Monitor Engine criado
+2024-05-11 18:37:15 - Processo Auth Request Manager criado
+2024-05-11 18:37:15 - Processo Auth Server criado
+2024-05-11 18:37:15 - Processo Auth Server criado
+2024-05-11 18:37:15 - Processo Auth Server criado
+2024-05-11 18:37:15 - Processo Auth Server criado
+2024-05-11 18:37:15 - Processo Auth Server criado
+2024-05-11 18:37:15 - Processo Auth Server criado
+2024-05-11 18:37:15 - Criação da thread sender
+2024-05-11 18:37:15 - Criação da thread receiver
+2024-05-11 18:38:10 - Início do programa
+2024-05-11 18:38:10 - Processo System Manager criado
+2024-05-11 18:38:10 - Processo Monitor Engine criado
+2024-05-11 18:38:10 - Processo Auth Request Manager criado
+2024-05-11 18:38:10 - Processo Auth Engines criado
+2024-05-11 18:38:10 - Processo Auth Engines criado
+2024-05-11 18:38:10 - Processo Auth Engines criado
+2024-05-11 18:38:10 - Processo Auth Engines criado
+2024-05-11 18:38:10 - Processo Auth Engines criado
+2024-05-11 18:38:10 - Processo Auth Engines criado
+2024-05-11 18:38:10 - Criação da thread sender
+2024-05-11 18:38:10 - Criação da thread receiver
+2024-05-11 18:40:40 - Início do programa
+2024-05-11 18:40:40 - Processo System Manager criado
+2024-05-11 18:40:40 - Processo Monitor Engine criado
+2024-05-11 18:40:40 - Processo Auth Request Manager criado
+2024-05-11 18:40:40 - Processo Auth Engines criado
+2024-05-11 18:40:40 - Processo Auth Engines criado
+2024-05-11 18:40:40 - Processo Auth Engines criado
+2024-05-11 18:40:40 - Processo Auth Engines criado
+2024-05-11 18:40:40 - Processo Auth Engines criado
+2024-05-11 18:40:40 - Processo Auth Engines criado
+2024-05-11 18:40:40 - Criação da thread sender
+2024-05-11 18:40:40 - Criação da thread receiver
+2024-05-11 18:54:45 - Início do programa
+2024-05-11 18:54:45 - Processo System Manager criado
+2024-05-11 18:54:45 - Processo Monitor Engine criado
+2024-05-11 18:54:45 - Processo Auth Request Manager criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Processo Auth Engines criado
+2024-05-11 18:54:45 - Criação da thread sender
+2024-05-11 18:54:45 - Criação da thread receiver
+2024-05-11 18:55:53 - Início do programa
+2024-05-11 18:55:53 - Processo System Manager criado
+2024-05-11 18:55:53 - Processo Monitor Engine criado
+2024-05-11 18:55:53 - Processo Auth Request Manager criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Criação da thread sender
+2024-05-11 18:55:53 - Processo Auth Engines criado
+2024-05-11 18:55:53 - Criação da thread receiver
+2024-05-11 18:57:35 - Início do programa
+2024-05-11 18:57:35 - Processo System Manager criado
+2024-05-11 18:57:35 - Processo Monitor Engine criado
+2024-05-11 18:57:35 - Processo Auth Request Manager criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Processo Auth Engines criado
+2024-05-11 18:57:35 - Criação da thread sender
+2024-05-11 18:57:35 - Criação da thread receiver
+2024-05-11 19:06:55 - Início do programa
+2024-05-11 19:06:55 - Processo System Manager criado
+2024-05-11 19:06:55 - Processo Monitor Engine criado
+2024-05-11 19:06:55 - Processo Auth Request Manager criado
+2024-05-11 19:06:55 - Processo Auth Engines criado
+2024-05-11 19:06:55 - Processo Auth Engines criado
+2024-05-11 19:06:55 - Processo Auth Engines criado
+2024-05-11 19:06:55 - Processo Auth Engines criado
+2024-05-11 19:06:55 - Processo Auth Engines criado
+2024-05-11 19:06:55 - Processo Auth Engines criado
+2024-05-11 19:06:55 - Criação da thread sender
+2024-05-11 19:06:55 - Criação da thread receiver
+2024-05-12 11:38:43 - Início do programa
+2024-05-12 11:38:43 - Processo System Manager criado
+2024-05-12 11:38:43 - Processo Monitor Engine criado
+2024-05-12 11:38:43 - Processo Auth Request Manager criado
+2024-05-12 11:38:43 - Processo Auth Engines criado
+2024-05-12 11:38:43 - Processo Auth Engines criado
+2024-05-12 11:38:43 - Processo Auth Engines criado
+2024-05-12 11:38:43 - Processo Auth Engines criado
+2024-05-12 11:38:43 - Processo Auth Engines criado
+2024-05-12 11:38:43 - Processo Auth Engines criado
+2024-05-12 11:38:43 - Criação da thread sender
+2024-05-12 11:38:43 - Criação da thread receiver
+2024-05-12 14:18:14 - Início do programa
+2024-05-12 14:18:14 - Processo System Manager criado
+2024-05-12 14:18:14 - Processo Monitor Engine criado
+2024-05-12 14:18:14 - Processo Auth Request Manager criado
+2024-05-12 14:18:14 - Processo Auth Engine criado
+2024-05-12 14:18:14 - Criação da thread receiver
+2024-05-12 14:18:14 - Criação da thread sender
+2024-05-12 14:18:14 - Processo Auth Engine criado
+2024-05-12 14:18:14 - Processo Auth Engine criado
+2024-05-12 14:18:14 - Processo Auth Engine criado
+2024-05-12 14:18:14 - Processo Auth Engine criado
+2024-05-12 14:18:14 - Processo Auth Engine criado
+2024-05-12 14:18:14 - Fim do programa
+2024-05-12 14:18:29 - Início do programa
+2024-05-12 14:18:29 - Processo System Manager criado
+2024-05-12 14:18:29 - Processo Auth Request Manager criado
+2024-05-12 14:18:29 - Processo Monitor Engine criado
+2024-05-12 14:18:29 - Erro ao criar o named user_pipe
+2024-05-12 14:18:29 - Fim do programa
+2024-05-12 14:24:02 - Início do programa
+2024-05-12 14:24:02 - Processo System Manager criado
+2024-05-12 14:24:02 - Processo Monitor Engine criado
+2024-05-12 14:24:02 - Processo Auth Request Manager criado
+2024-05-12 14:24:02 - Processo Auth Engine criado
+2024-05-12 14:24:02 - Criação da thread sender
+2024-05-12 14:24:02 - Criação da thread receiver
+2024-05-12 14:24:02 - Processo Auth Engine criado
+2024-05-12 14:24:02 - Processo Auth Engine criado
+2024-05-12 14:24:02 - Processo Auth Engine criado
+2024-05-12 14:24:02 - Processo Auth Engine criado
+2024-05-12 14:24:02 - Processo Auth Engine criado
+2024-05-12 14:25:33 - Início do programa
+2024-05-12 14:25:33 - Processo System Manager criado
+2024-05-12 14:25:33 - Processo Monitor Engine criado
+2024-05-12 14:25:33 - Processo Auth Request Manager criado
+2024-05-12 14:25:34 - Processo Auth Engine criado
+2024-05-12 14:25:34 - Processo Auth Engine criado
+2024-05-12 14:25:34 - Criação da thread sender
+2024-05-12 14:25:34 - Criação da thread receiver
+2024-05-12 14:25:34 - Processo Auth Engine criado
+2024-05-12 14:25:34 - Processo Auth Engine criado
+2024-05-12 14:25:34 - Processo Auth Engine criado
+2024-05-12 14:25:34 - Processo Auth Engine criado
+2024-05-12 14:26:00 - Início do programa
+2024-05-12 14:26:00 - Processo System Manager criado
+2024-05-12 14:26:00 - Processo Monitor Engine criado
+2024-05-12 14:26:00 - Processo Auth Request Manager criado
+2024-05-12 14:26:00 - Criação da thread receiver
+2024-05-12 14:26:00 - Criação da thread sender
+2024-05-12 14:26:00 - Processo Auth Engine criado
+2024-05-12 14:26:00 - Processo Auth Engine criado
+2024-05-12 14:26:00 - Processo Auth Engine criado
+2024-05-12 14:26:00 - Processo Auth Engine criado
+2024-05-12 14:26:00 - Processo Auth Engine criado
+2024-05-12 14:26:00 - Processo Auth Engine criado
+2024-05-12 14:26:49 - Início do programa
+2024-05-12 14:26:49 - Processo System Manager criado
+2024-05-12 14:26:49 - Processo Monitor Engine criado
+2024-05-12 14:26:49 - Processo Auth Request Manager criado
+2024-05-12 14:26:49 - Criação da thread sender
+2024-05-12 14:26:49 - Criação da thread receiver
+2024-05-12 14:26:49 - Processo Auth Engine criado
+2024-05-12 14:26:49 - Processo Auth Engine criado
+2024-05-12 14:26:49 - Processo Auth Engine criado
+2024-05-12 14:26:49 - Processo Auth Engine criado
+2024-05-12 14:26:49 - Processo Auth Engine criado
+2024-05-12 14:26:49 - Processo Auth Engine criado
+2024-05-12 14:26:49 - Fim do programa
+2024-05-12 14:30:02 - Início do programa
+2024-05-12 14:30:02 - Processo System Manager criado
+2024-05-12 14:30:02 - Processo Monitor Engine criado
+2024-05-12 14:30:02 - Processo Auth Request Manager criado
+2024-05-12 14:30:02 - Erro ao criar o named user_pipe
+2024-05-12 14:30:02 - Fim do programa
+2024-05-12 14:31:17 - Início do programa
+2024-05-12 14:31:17 - Processo System Manager criado
+2024-05-12 14:31:17 - Processo Monitor Engine criado
+2024-05-12 14:31:17 - Processo Auth Request Manager criado
+2024-05-12 14:31:17 - Processo Auth Engine criado
+2024-05-12 14:31:17 - Criação da thread sender
+2024-05-12 14:31:17 - Criação da thread receiver
+2024-05-12 14:31:17 - Processo Auth Engine criado
+2024-05-12 14:31:17 - Processo Auth Engine criado
+2024-05-12 14:31:17 - Processo Auth Engine criado
+2024-05-12 14:31:17 - Processo Auth Engine criado
+2024-05-12 14:31:17 - Processo Auth Engine criado
+2024-05-12 14:31:17 - Fim do programa
+2024-05-12 14:31:22 - Início do programa
+2024-05-12 14:31:22 - Processo System Manager criado
+2024-05-12 14:31:22 - Processo Monitor Engine criado
+2024-05-12 14:31:22 - Processo Auth Request Manager criado
+2024-05-12 14:31:22 - Erro ao criar o named user_pipe
+2024-05-12 14:31:22 - Fim do programa
+2024-05-12 14:33:58 - Início do programa
+2024-05-12 14:33:58 - Processo System Manager criado
+2024-05-12 14:33:58 - Processo Monitor Engine criado
+2024-05-12 14:33:58 - Processo Auth Request Manager criado
+2024-05-12 14:33:58 - Processo Auth Engine criado
+2024-05-12 14:33:58 - Processo Auth Engine criado
+2024-05-12 14:33:58 - Processo Auth Engine criado
+2024-05-12 14:33:58 - Processo Auth Engine criado
+2024-05-12 14:33:58 - Processo Auth Engine criado
+2024-05-12 14:33:58 - Processo Auth Engine criado
+2024-05-12 14:33:58 - Criação da thread sender
+2024-05-12 14:33:58 - Criação da thread receiver
+2024-05-12 14:33:58 - Fim do programa
+2024-05-12 14:37:48 - Início do programa
+2024-05-12 14:37:48 - Processo System Manager criado
+2024-05-12 14:37:48 - Processo Monitor Engine criado
+2024-05-12 14:37:48 - Processo Auth Request Manager criado
+2024-05-12 14:37:48 - Processo Auth Engines criado
+2024-05-12 14:37:48 - Processo Auth Engines criado
+2024-05-12 14:37:48 - Processo Auth Engines criado
+2024-05-12 14:37:48 - Processo Auth Engines criado
+2024-05-12 14:37:48 - Processo Auth Engines criado
+2024-05-12 14:37:48 - Processo Auth Engines criado
+2024-05-12 14:37:48 - Criação da thread sender
+2024-05-12 14:37:48 - Criação da thread receiver
+2024-05-12 14:47:24 - Início do programa
+2024-05-12 14:47:24 - Processo System Manager criado
+2024-05-12 14:47:24 - Processo Monitor Engine criado
+2024-05-12 14:47:24 - Processo Auth Request Manager criado
+2024-05-12 14:47:24 - Processo Auth Engines criado
+2024-05-12 14:47:24 - Processo Auth Engines criado
+2024-05-12 14:47:24 - Processo Auth Engines criado
+2024-05-12 14:47:24 - Processo Auth Engines criado
+2024-05-12 14:47:24 - Processo Auth Engines criado
+2024-05-12 14:47:24 - Erro ao ler do pipe
+2024-05-12 14:47:24 - Processo Auth Engines criado
+2024-05-12 14:47:24 - Erro ao ler do pipe
+2024-05-12 14:47:24 - Erro ao ler do pipe
+2024-05-12 14:47:24 - Criação da thread sender
+2024-05-12 14:47:24 - Criação da thread receiver
+2024-05-12 14:47:24 - Erro ao ler do pipe
+2024-05-12 14:47:24 - Erro ao ler do pipe
+2024-05-12 14:47:24 - Erro ao ler do pipe
+2024-05-12 14:48:39 - Início do programa
+2024-05-12 14:48:39 - Processo System Manager criado
+2024-05-12 14:48:39 - Processo Monitor Engine criado
+2024-05-12 14:48:39 - Processo Auth Request Manager criado
+2024-05-12 14:48:39 - Processo Auth Engines criado
+2024-05-12 14:48:39 - Processo Auth Engines criado
+2024-05-12 14:48:39 - Processo Auth Engines criado
+2024-05-12 14:48:39 - Processo Auth Engines criado
+2024-05-12 14:48:39 - Erro ao ler do pipe
+2024-05-12 14:48:39 - Erro ao ler do pipe
+2024-05-12 14:48:39 - Erro ao ler do pipe
+2024-05-12 14:48:39 - Erro ao ler do pipe
+2024-05-12 14:48:39 - Processo Auth Engines criado
+2024-05-12 14:48:39 - Processo Auth Engines criado
+2024-05-12 14:48:39 - Criação da thread sender
+2024-05-12 14:48:39 - Criação da thread receiver
+2024-05-12 14:48:39 - Erro ao ler do pipe
+2024-05-12 14:48:39 - Erro ao ler do pipe
+2024-05-12 14:49:31 - Início do programa
+2024-05-12 14:49:31 - Processo System Manager criado
+2024-05-12 14:49:31 - Processo Monitor Engine criado
+2024-05-12 14:49:31 - Processo Auth Request Manager criado
+2024-05-12 14:49:31 - Processo Auth Engines criado
+2024-05-12 14:49:31 - Processo Auth Engines criado
+2024-05-12 14:49:31 - Processo Auth Engines criado
+2024-05-12 14:49:31 - Processo Auth Engines criado
+2024-05-12 14:49:31 - Processo Auth Engines criado
+2024-05-12 14:49:31 - Processo Auth Engines criado
+2024-05-12 14:49:31 - Criação da thread sender
+2024-05-12 14:49:31 - Erro ao ler do pipe
+2024-05-12 14:49:31 - Erro ao ler do pipe
+2024-05-12 14:49:31 - Erro ao ler do pipe
+2024-05-12 14:49:31 - Erro ao ler do pipe
+2024-05-12 14:49:31 - Erro ao ler do pipe
+2024-05-12 14:49:31 - Erro ao ler do pipe
+2024-05-12 14:49:31 - Criação da thread receiver
+2024-05-12 14:50:08 - Início do programa
+2024-05-12 14:50:08 - Processo System Manager criado
+2024-05-12 14:50:08 - Processo Monitor Engine criado
+2024-05-12 14:50:08 - Processo Auth Request Manager criado
+2024-05-12 14:50:08 - Processo Auth Engines criado
+2024-05-12 14:50:08 - Processo Auth Engines criado
+2024-05-12 14:50:08 - Processo Auth Engines criado
+2024-05-12 14:50:08 - Erro ao ler do pipe
+2024-05-12 14:50:08 - Processo Auth Engines criado
+2024-05-12 14:50:08 - Erro ao ler do pipe
+2024-05-12 14:50:08 - Processo Auth Engines criado
+2024-05-12 14:50:08 - Erro ao ler do pipe
+2024-05-12 14:50:08 - Erro ao ler do pipe
+2024-05-12 14:50:08 - Processo Auth Engines criado
+2024-05-12 14:50:08 - Criação da thread sender
+2024-05-12 14:50:08 - Criação da thread receiver
+2024-05-12 14:50:08 - Erro ao ler do pipe
+2024-05-12 14:50:08 - Erro ao ler do pipe
+2024-05-12 14:50:48 - Início do programa
+2024-05-12 14:50:48 - Processo System Manager criado
+2024-05-12 14:50:48 - Processo Monitor Engine criado
+2024-05-12 14:50:48 - Processo Auth Request Manager criado
+2024-05-12 14:50:48 - Processo Auth Engines criado
+2024-05-12 14:50:48 - Processo Auth Engines criado
+2024-05-12 14:50:48 - Processo Auth Engines criado
+2024-05-12 14:50:48 - Processo Auth Engines criado
+2024-05-12 14:50:48 - Processo Auth Engines criado
+2024-05-12 14:50:48 - Processo Auth Engines criado
+2024-05-12 14:50:48 - Erro ao ler do pipe
+2024-05-12 14:50:48 - Erro ao ler do pipe
+2024-05-12 14:50:48 - Erro ao ler do pipe
+2024-05-12 14:50:48 - Erro ao ler do pipe
+2024-05-12 14:50:48 - Criação da thread sender
+2024-05-12 14:50:48 - Criação da thread receiver
+2024-05-12 14:50:48 - Erro ao ler do pipe
+2024-05-12 14:50:48 - Erro ao ler do pipe
+2024-05-12 16:47:03 - Início do programa
+2024-05-12 16:47:03 - Processo System Manager criado
+2024-05-12 16:47:03 - Processo Monitor Engine criado
+2024-05-12 16:47:03 - Processo Auth Request Manager criado
+2024-05-12 16:47:03 - Processo Auth Engines criado
+2024-05-12 16:47:03 - Processo Auth Engines criado
+2024-05-12 16:47:03 - Processo Auth Engines criado
+2024-05-12 16:47:03 - Processo Auth Engines criado
+2024-05-12 16:47:03 - Erro ao ler do pipe
+2024-05-12 16:47:03 - Erro ao ler do pipe
+2024-05-12 16:47:03 - Erro ao ler do pipe
+2024-05-12 16:47:03 - Processo Auth Engines criado
+2024-05-12 16:47:03 - Criação da thread sender
+2024-05-12 16:47:03 - Processo Auth Engines criado
+2024-05-12 16:47:03 - Erro ao ler do pipe
+2024-05-12 16:47:03 - Erro ao ler do pipe
+2024-05-12 16:47:03 - Criação da thread receiver
+2024-05-12 16:47:03 - Erro ao ler do pipe
+2024-05-12 16:51:25 - Início do programa
+2024-05-12 16:51:25 - Processo System Manager criado
+2024-05-12 16:51:25 - Processo Monitor Engine criado
+2024-05-12 16:51:25 - Processo Auth Request Manager criado
+2024-05-12 16:51:25 - Processo Auth Engines criado
+2024-05-12 16:51:25 - Processo Auth Engines criado
+2024-05-12 16:51:25 - Processo Auth Engines criado
+2024-05-12 16:51:25 - Processo Auth Engines criado
+2024-05-12 16:51:25 - Processo Auth Engines criado
+2024-05-12 16:51:25 - Erro ao ler do pipe
+2024-05-12 16:51:25 - Erro ao ler do pipe
+2024-05-12 16:51:25 - Processo Auth Engines criado
+2024-05-12 16:51:25 - Erro ao ler do pipe
+2024-05-12 16:51:25 - Erro ao ler do pipe
+2024-05-12 16:51:25 - Erro ao ler do pipe
+2024-05-12 16:51:25 - Criação da thread sender
+2024-05-12 16:51:25 - Criação da thread receiver
+2024-05-12 16:51:25 - Erro ao ler do pipe
+2024-05-12 16:51:30 - Início do programa
+2024-05-12 16:51:30 - Processo System Manager criado
+2024-05-12 16:51:30 - Processo Monitor Engine criado
+2024-05-12 16:51:30 - Processo Auth Request Manager criado
+2024-05-12 16:51:30 - Processo Auth Engines criado
+2024-05-12 16:51:30 - Processo Auth Engines criado
+2024-05-12 16:51:30 - Processo Auth Engines criado
+2024-05-12 16:51:30 - Processo Auth Engines criado
+2024-05-12 16:51:30 - Processo Auth Engines criado
+2024-05-12 16:51:30 - Erro ao ler do pipe
+2024-05-12 16:51:30 - Processo Auth Engines criado
+2024-05-12 16:51:30 - Erro ao ler do pipe
+2024-05-12 16:51:30 - Erro ao ler do pipe
+2024-05-12 16:51:30 - Criação da thread sender
+2024-05-12 16:51:30 - Erro ao ler do pipe
+2024-05-12 16:51:30 - Erro ao ler do pipe
+2024-05-12 16:51:30 - Erro ao ler do pipe
+2024-05-12 16:51:30 - Criação da thread receiver
+2024-05-12 16:57:21 - Início do programa
+2024-05-12 16:57:21 - Processo System Manager criado
+2024-05-12 16:57:21 - Processo Monitor Engine criado
+2024-05-12 16:57:21 - Processo Auth Request Manager criado
+2024-05-12 16:57:21 - Processo Auth Engines criado
+2024-05-12 16:57:21 - Processo Auth Engines criado
+2024-05-12 16:57:21 - Processo Auth Engines criado
+2024-05-12 16:57:21 - Processo Auth Engines criado
+2024-05-12 16:57:21 - Processo Auth Engines criado
+2024-05-12 16:57:21 - Erro ao ler do pipe
+2024-05-12 16:57:21 - Erro ao ler do pipe
+2024-05-12 16:57:21 - Processo Auth Engines criado
+2024-05-12 16:57:21 - Erro ao ler do pipe
+2024-05-12 16:57:21 - Erro ao ler do pipe
+2024-05-12 16:57:21 - Criação da thread sender
+2024-05-12 16:57:21 - Erro ao ler do pipe
+2024-05-12 16:57:21 - Erro ao ler do pipe
+2024-05-12 16:57:21 - Criação da thread receiver
+2024-05-12 16:57:53 - Início do programa
+2024-05-12 16:57:53 - Processo System Manager criado
+2024-05-12 16:57:53 - Processo Monitor Engine criado
+2024-05-12 16:57:53 - Processo Auth Request Manager criado
+2024-05-12 16:57:53 - Processo Auth Engines criado
+2024-05-12 16:57:53 - Processo Auth Engines criado
+2024-05-12 16:57:53 - Processo Auth Engines criado
+2024-05-12 16:57:53 - Processo Auth Engines criado
+2024-05-12 16:57:53 - Erro ao ler do pipe
+2024-05-12 16:57:53 - Processo Auth Engines criado
+2024-05-12 16:57:53 - Erro ao ler do pipe
+2024-05-12 16:57:53 - Processo Auth Engines criado
+2024-05-12 16:57:53 - Erro ao ler do pipe
+2024-05-12 16:57:53 - Criação da thread sender
+2024-05-12 16:57:53 - Erro ao ler do pipe
+2024-05-12 16:57:53 - Erro ao ler do pipe
+2024-05-12 16:57:53 - Criação da thread receiver
+2024-05-12 16:57:53 - Erro ao ler do pipe
+2024-05-12 17:02:30 - Início do programa
+2024-05-12 17:02:30 - Processo System Manager criado
+2024-05-12 17:02:30 - Processo Monitor Engine criado
+2024-05-12 17:02:30 - Processo Auth Request Manager criado
+2024-05-12 17:02:30 - Processo Auth Engines criado
+2024-05-12 17:02:30 - Processo Auth Engines criado
+2024-05-12 17:02:30 - Processo Auth Engines criado
+2024-05-12 17:02:30 - Processo Auth Engines criado
+2024-05-12 17:02:30 - Erro ao ler do pipe
+2024-05-12 17:02:30 - Processo Auth Engines criado
+2024-05-12 17:02:30 - Erro ao ler do pipe
+2024-05-12 17:02:30 - Erro ao ler do pipe
+2024-05-12 17:02:30 - Erro ao ler do pipe
+2024-05-12 17:02:30 - Processo Auth Engines criado
+2024-05-12 17:02:30 - Erro ao ler do pipe
+2024-05-12 17:02:30 - Criação da thread sender
+2024-05-12 17:02:30 - Criação da thread receiver
+2024-05-12 17:02:30 - Erro ao ler do pipe
+2024-05-12 17:03:33 - Início do programa
+2024-05-12 17:03:33 - Processo System Manager criado
+2024-05-12 17:03:33 - Processo Monitor Engine criado
+2024-05-12 17:03:33 - Processo Auth Request Manager criado
+2024-05-12 17:03:33 - Processo Auth Engines criado
+2024-05-12 17:03:33 - Processo Auth Engines criado
+2024-05-12 17:03:33 - Processo Auth Engines criado
+2024-05-12 17:03:33 - Processo Auth Engines criado
+2024-05-12 17:03:33 - Erro ao ler do pipe
+2024-05-12 17:03:33 - Processo Auth Engines criado
+2024-05-12 17:03:33 - Erro ao ler do pipe
+2024-05-12 17:03:33 - Processo Auth Engines criado
+2024-05-12 17:03:33 - Erro ao ler do pipe
+2024-05-12 17:03:33 - Erro ao ler do pipe
+2024-05-12 17:03:33 - Erro ao ler do pipe
+2024-05-12 17:03:33 - Criação da thread sender
+2024-05-12 17:03:33 - Criação da thread receiver
+2024-05-12 17:03:33 - Erro ao ler do pipe
+2024-05-12 17:04:27 - Início do programa
+2024-05-12 17:04:27 - Processo System Manager criado
+2024-05-12 17:04:27 - Processo Monitor Engine criado
+2024-05-12 17:04:27 - Processo Auth Request Manager criado
+2024-05-12 17:04:27 - Processo Auth Engines criado
+2024-05-12 17:04:27 - Processo Auth Engines criado
+2024-05-12 17:04:27 - Processo Auth Engines criado
+2024-05-12 17:04:27 - Processo Auth Engines criado
+2024-05-12 17:04:27 - Processo Auth Engines criado
+2024-05-12 17:04:27 - Erro ao ler do pipe
+2024-05-12 17:04:27 - Erro ao ler do pipe
+2024-05-12 17:04:27 - Erro ao ler do pipe
+2024-05-12 17:04:27 - Erro ao ler do pipe
+2024-05-12 17:04:27 - Erro ao ler do pipe
+2024-05-12 17:04:27 - Criação da thread sender
+2024-05-12 17:04:27 - Processo Auth Engines criado
+2024-05-12 17:04:27 - Erro ao ler do pipe
+2024-05-12 17:04:27 - Criação da thread receiver
+2024-05-12 17:05:36 - Início do programa
+2024-05-12 17:05:36 - Processo System Manager criado
+2024-05-12 17:05:36 - Processo Monitor Engine criado
+2024-05-12 17:05:36 - Processo Auth Request Manager criado
+2024-05-12 17:05:36 - Processo Auth Engines criado
+2024-05-12 17:05:36 - Processo Auth Engines criado
+2024-05-12 17:05:36 - Processo Auth Engines criado
+2024-05-12 17:05:36 - Processo Auth Engines criado
+2024-05-12 17:05:36 - Processo Auth Engines criado
+2024-05-12 17:05:36 - Erro ao ler do pipe
+2024-05-12 17:05:36 - Processo Auth Engines criado
+2024-05-12 17:05:36 - Erro ao ler do pipe
+2024-05-12 17:05:36 - Erro ao ler do pipe
+2024-05-12 17:05:36 - Erro ao ler do pipe
+2024-05-12 17:05:36 - Erro ao ler do pipe
+2024-05-12 17:05:36 - Criação da thread sender
+2024-05-12 17:05:36 - Erro ao ler do pipe
+2024-05-12 17:05:36 - Criação da thread receiver
+2024-05-12 17:07:01 - Início do programa
+2024-05-12 17:07:01 - Processo System Manager criado
+2024-05-12 17:07:01 - Processo Monitor Engine criado
+2024-05-12 17:07:01 - Processo Auth Request Manager criado
+2024-05-12 17:07:01 - Processo Auth Engines criado
+2024-05-12 17:07:01 - Processo Auth Engines criado
+2024-05-12 17:07:01 - Processo Auth Engines criado
+2024-05-12 17:07:01 - Processo Auth Engines criado
+2024-05-12 17:07:01 - Processo Auth Engines criado
+2024-05-12 17:07:01 - Erro ao ler do pipe
+2024-05-12 17:07:01 - Erro ao ler do pipe
+2024-05-12 17:07:01 - Erro ao ler do pipe
+2024-05-12 17:07:01 - Processo Auth Engines criado
+2024-05-12 17:07:01 - Erro ao ler do pipe
+2024-05-12 17:07:01 - Criação da thread sender
+2024-05-12 17:07:01 - Erro ao ler do pipe
+2024-05-12 17:07:01 - Erro ao ler do pipe
+2024-05-12 17:07:01 - Criação da thread receiver
+2024-05-12 17:07:39 - Início do programa
+2024-05-12 17:07:39 - Processo System Manager criado
+2024-05-12 17:07:39 - Processo Monitor Engine criado
+2024-05-12 17:07:39 - Processo Auth Request Manager criado
+2024-05-12 17:07:39 - Processo Auth Engines criado
+2024-05-12 17:07:39 - Processo Auth Engines criado
+2024-05-12 17:07:39 - Processo Auth Engines criado
+2024-05-12 17:07:39 - Processo Auth Engines criado
+2024-05-12 17:07:40 - Processo Auth Engines criado
+2024-05-12 17:07:40 - Processo Auth Engines criado
+2024-05-12 17:07:40 - Erro ao ler do pipe
+2024-05-12 17:07:40 - Erro ao ler do pipe
+2024-05-12 17:07:40 - Criação da thread sender
+2024-05-12 17:07:40 - Criação da thread receiver
+2024-05-12 17:07:40 - Erro ao ler do pipe
+2024-05-12 17:07:40 - Erro ao ler do pipe
+2024-05-12 17:07:40 - Erro ao ler do pipe
+2024-05-12 17:07:40 - Erro ao ler do pipe
+2024-05-12 17:10:57 - Início do programa
+2024-05-12 17:10:57 - Processo System Manager criado
+2024-05-12 17:10:57 - Processo Monitor Engine criado
+2024-05-12 17:10:57 - Processo Auth Request Manager criado
+2024-05-12 17:10:57 - Processo Auth Engines criado
+2024-05-12 17:10:57 - Processo Auth Engines criado
+2024-05-12 17:10:57 - Processo Auth Engines criado
+2024-05-12 17:10:57 - Erro ao ler do pipe
+2024-05-12 17:10:57 - Erro ao ler do pipe
+2024-05-12 17:10:57 - Processo Auth Engines criado
+2024-05-12 17:10:57 - Erro ao ler do pipe
+2024-05-12 17:10:57 - Processo Auth Engines criado
+2024-05-12 17:10:57 - Processo Auth Engines criado
+2024-05-12 17:10:57 - Erro ao ler do pipe
+2024-05-12 17:10:57 - Criação da thread sender
+2024-05-12 17:10:57 - Erro ao ler do pipe
+2024-05-12 17:10:57 - Erro ao ler do pipe
+2024-05-12 17:10:57 - Criação da thread receiver
+2024-05-12 17:15:16 - Início do programa
+2024-05-12 17:15:16 - Processo System Manager criado
+2024-05-12 17:15:16 - Processo Monitor Engine criado
+2024-05-12 17:15:16 - Processo Auth Request Manager criado
+2024-05-12 17:15:16 - Processo Auth Engines criado
+2024-05-12 17:15:16 - Processo Auth Engines criado
+2024-05-12 17:15:16 - Processo Auth Engines criado
+2024-05-12 17:15:16 - Processo Auth Engines criado
+2024-05-12 17:15:16 - Processo Auth Engines criado
+2024-05-12 17:15:16 - Erro ao ler do pipe
+2024-05-12 17:15:16 - Erro ao ler do pipe
+2024-05-12 17:15:16 - Processo Auth Engines criado
+2024-05-12 17:15:16 - Erro ao ler do pipe
+2024-05-12 17:15:16 - Criação da thread sender
+2024-05-12 17:15:16 - Erro ao ler do pipe
+2024-05-12 17:15:16 - Erro ao ler do pipe
+2024-05-12 17:15:16 - Erro ao ler do pipe
+2024-05-12 17:15:16 - Criação da thread receiver
+2024-05-12 17:17:40 - Início do programa
+2024-05-12 17:17:40 - Processo System Manager criado
+2024-05-12 17:17:40 - Processo Monitor Engine criado
+2024-05-12 17:17:40 - Processo Auth Request Manager criado
+2024-05-12 17:17:40 - Processo Auth Engines criado
+2024-05-12 17:17:40 - Processo Auth Engines criado
+2024-05-12 17:17:40 - Processo Auth Engines criado
+2024-05-12 17:17:40 - Processo Auth Engines criado
+2024-05-12 17:17:40 - Erro ao ler do pipe
+2024-05-12 17:17:40 - Erro ao ler do pipe
+2024-05-12 17:17:40 - Processo Auth Engines criado
+2024-05-12 17:17:40 - Erro ao ler do pipe
+2024-05-12 17:17:40 - Erro ao ler do pipe
+2024-05-12 17:17:40 - Processo Auth Engines criado
+2024-05-12 17:17:40 - Erro ao ler do pipe
+2024-05-12 17:17:40 - Criação da thread sender
+2024-05-12 17:17:40 - Criação da thread receiver
+2024-05-12 17:17:40 - Erro ao ler do pipe
+2024-05-12 17:18:22 - Início do programa
+2024-05-12 17:18:22 - Processo System Manager criado
+2024-05-12 17:18:22 - Processo Monitor Engine criado
+2024-05-12 17:18:22 - Processo Auth Request Manager criado
+2024-05-12 17:18:22 - Processo Auth Engines criado
+2024-05-12 17:18:22 - Processo Auth Engines criado
+2024-05-12 17:18:22 - Processo Auth Engines criado
+2024-05-12 17:18:22 - Processo Auth Engines criado
+2024-05-12 17:18:22 - Erro ao ler do pipe
+2024-05-12 17:18:22 - Erro ao ler do pipe
+2024-05-12 17:18:22 - Processo Auth Engines criado
+2024-05-12 17:18:22 - Erro ao ler do pipe
+2024-05-12 17:18:22 - Processo Auth Engines criado
+2024-05-12 17:18:22 - Erro ao ler do pipe
+2024-05-12 17:18:22 - Erro ao ler do pipe
+2024-05-12 17:18:22 - Criação da thread sender
+2024-05-12 17:18:22 - Erro ao ler do pipe
+2024-05-12 17:18:22 - Criação da thread receiver
+2024-05-12 17:20:27 - Início do programa
+2024-05-12 17:20:27 - Processo System Manager criado
+2024-05-12 17:20:27 - Processo Monitor Engine criado
+2024-05-12 17:20:27 - Processo Auth Request Manager criado
+2024-05-12 17:20:27 - Processo Auth Engines criado
+2024-05-12 17:20:27 - Processo Auth Engines criado
+2024-05-12 17:20:27 - Processo Auth Engines criado
+2024-05-12 17:20:27 - Processo Auth Engines criado
+2024-05-12 17:20:27 - Processo Auth Engines criado
+2024-05-12 17:20:27 - Erro ao ler do pipe
+2024-05-12 17:20:27 - Erro ao ler do pipe
+2024-05-12 17:20:27 - Erro ao ler do pipe
+2024-05-12 17:20:27 - Erro ao ler do pipe
+2024-05-12 17:20:27 - Erro ao ler do pipe
+2024-05-12 17:20:27 - Processo Auth Engines criado
+2024-05-12 17:20:27 - Criação da thread sender
+2024-05-12 17:20:27 - Erro ao ler do pipe
+2024-05-12 17:20:27 - Criação da thread receiver
+2024-05-12 17:24:28 - Início do programa
+2024-05-12 17:24:28 - Processo System Manager criado
+2024-05-12 17:24:28 - Processo Monitor Engine criado
+2024-05-12 17:24:28 - Processo Auth Request Manager criado
+2024-05-12 17:24:28 - Processo Auth Engines criado
+2024-05-12 17:24:28 - Processo Auth Engines criado
+2024-05-12 17:24:28 - Processo Auth Engines criado
+2024-05-12 17:24:28 - Processo Auth Engines criado
+2024-05-12 17:24:28 - Erro ao ler do pipe
+2024-05-12 17:24:28 - Erro ao ler do pipe
+2024-05-12 17:24:28 - Erro ao ler do pipe
+2024-05-12 17:24:28 - Processo Auth Engines criado
+2024-05-12 17:24:28 - Processo Auth Engines criado
+2024-05-12 17:24:28 - Erro ao ler do pipe
+2024-05-12 17:24:28 - Criação da thread sender
+2024-05-12 17:24:28 - Erro ao ler do pipe
+2024-05-12 17:24:28 - Erro ao ler do pipe
+2024-05-12 17:24:28 - Criação da thread receiver
+2024-05-12 17:26:45 - Início do programa
+2024-05-12 17:26:45 - Processo System Manager criado
+2024-05-12 17:26:45 - Processo Monitor Engine criado
+2024-05-12 17:26:45 - Processo Auth Request Manager criado
+2024-05-12 17:26:45 - Processo Auth Engines criado
+2024-05-12 17:26:45 - Processo Auth Engines criado
+2024-05-12 17:26:45 - Processo Auth Engines criado
+2024-05-12 17:26:45 - Processo Auth Engines criado
+2024-05-12 17:26:45 - Processo Auth Engines criado
+2024-05-12 17:26:45 - Erro ao ler do pipe
+2024-05-12 17:26:45 - Erro ao ler do pipe
+2024-05-12 17:26:45 - Processo Auth Engines criado
+2024-05-12 17:26:45 - Erro ao ler do pipe
+2024-05-12 17:26:45 - Erro ao ler do pipe
+2024-05-12 17:26:45 - Erro ao ler do pipe
+2024-05-12 17:26:45 - Criação da thread sender
+2024-05-12 17:26:45 - Erro ao ler do pipe
+2024-05-12 17:26:45 - Criação da thread receiver
+2024-05-12 17:27:52 - Início do programa
+2024-05-12 17:27:52 - Processo System Manager criado
+2024-05-12 17:27:52 - Processo Monitor Engine criado
+2024-05-12 17:27:52 - Processo Auth Request Manager criado
+2024-05-12 17:27:52 - Processo Auth Engines criado
+2024-05-12 17:27:52 - Processo Auth Engines criado
+2024-05-12 17:27:52 - Processo Auth Engines criado
+2024-05-12 17:27:52 - Processo Auth Engines criado
+2024-05-12 17:27:52 - Processo Auth Engines criado
+2024-05-12 17:27:52 - Erro ao ler do pipe
+2024-05-12 17:27:52 - Erro ao ler do pipe
+2024-05-12 17:27:52 - Erro ao ler do pipe
+2024-05-12 17:27:52 - Erro ao ler do pipe
+2024-05-12 17:27:52 - Processo Auth Engines criado
+2024-05-12 17:27:52 - Erro ao ler do pipe
+2024-05-12 17:27:52 - Criação da thread sender
+2024-05-12 17:27:52 - Criação da thread receiver
+2024-05-12 17:27:52 - Erro ao ler do pipe
+2024-05-12 17:28:14 - Início do programa
+2024-05-12 17:28:14 - Processo System Manager criado
+2024-05-12 17:28:15 - Processo Monitor Engine criado
+2024-05-12 17:28:15 - Processo Auth Request Manager criado
+2024-05-12 17:28:15 - Processo Auth Engines criado
+2024-05-12 17:28:15 - Processo Auth Engines criado
+2024-05-12 17:28:15 - Processo Auth Engines criado
+2024-05-12 17:28:15 - Processo Auth Engines criado
+2024-05-12 17:28:15 - Processo Auth Engines criado
+2024-05-12 17:28:15 - Erro ao ler do pipe
+2024-05-12 17:28:15 - Erro ao ler do pipe
+2024-05-12 17:28:15 - Erro ao ler do pipe
+2024-05-12 17:28:15 - Processo Auth Engines criado
+2024-05-12 17:28:15 - Erro ao ler do pipe
+2024-05-12 17:28:15 - Erro ao ler do pipe
+2024-05-12 17:28:15 - Criação da thread sender
+2024-05-12 17:28:15 - Erro ao ler do pipe
+2024-05-12 17:28:15 - Criação da thread receiver
+2024-05-12 17:29:00 - Início do programa
+2024-05-12 17:29:00 - Processo System Manager criado
+2024-05-12 17:29:00 - Processo Monitor Engine criado
+2024-05-12 17:29:00 - Processo Auth Request Manager criado
+2024-05-12 17:29:00 - Processo Auth Engines criado
+2024-05-12 17:29:00 - Processo Auth Engines criado
+2024-05-12 17:29:00 - Processo Auth Engines criado
+2024-05-12 17:29:00 - Processo Auth Engines criado
+2024-05-12 17:29:00 - Erro ao ler do pipe
+2024-05-12 17:29:00 - Erro ao ler do pipe
+2024-05-12 17:29:00 - Erro ao ler do pipe
+2024-05-12 17:29:00 - Erro ao ler do pipe
+2024-05-12 17:29:00 - Processo Auth Engines criado
+2024-05-12 17:29:00 - Criação da thread sender
+2024-05-12 17:29:00 - Processo Auth Engines criado
+2024-05-12 17:29:00 - Erro ao ler do pipe
+2024-05-12 17:29:00 - Criação da thread receiver
+2024-05-12 17:29:00 - Erro ao ler do pipe
+2024-05-12 17:29:33 - Início do programa
+2024-05-12 17:29:33 - Processo System Manager criado
+2024-05-12 17:29:33 - Processo Monitor Engine criado
+2024-05-12 17:29:33 - Processo Auth Request Manager criado
+2024-05-12 17:29:33 - Processo Auth Engines criado
+2024-05-12 17:29:33 - Processo Auth Engines criado
+2024-05-12 17:29:33 - Processo Auth Engines criado
+2024-05-12 17:29:33 - Processo Auth Engines criado
+2024-05-12 17:29:33 - Processo Auth Engines criado
+2024-05-12 17:29:33 - Erro ao ler do pipe
+2024-05-12 17:29:33 - Erro ao ler do pipe
+2024-05-12 17:29:33 - Erro ao ler do pipe
+2024-05-12 17:29:33 - Processo Auth Engines criado
+2024-05-12 17:29:33 - Erro ao ler do pipe
+2024-05-12 17:29:33 - Criação da thread sender
+2024-05-12 17:29:33 - Criação da thread receiver
+2024-05-12 17:29:33 - Erro ao ler do pipe
+2024-05-12 17:29:33 - Erro ao ler do pipe
+2024-05-12 17:31:20 - Início do programa
+2024-05-12 17:31:20 - Processo System Manager criado
+2024-05-12 17:31:20 - Processo Monitor Engine criado
+2024-05-12 17:31:20 - Processo Auth Request Manager criado
+2024-05-12 17:31:20 - Processo Auth Engines criado
+2024-05-12 17:31:20 - Processo Auth Engines criado
+2024-05-12 17:31:20 - Processo Auth Engines criado
+2024-05-12 17:31:20 - Processo Auth Engines criado
+2024-05-12 17:31:20 - Processo Auth Engines criado
+2024-05-12 17:31:20 - Erro ao ler do pipe
+2024-05-12 17:31:20 - Erro ao ler do pipe
+2024-05-12 17:31:20 - Erro ao ler do pipe
+2024-05-12 17:31:20 - Erro ao ler do pipe
+2024-05-12 17:31:20 - Erro ao ler do pipe
+2024-05-12 17:31:20 - Processo Auth Engines criado
+2024-05-12 17:31:20 - Criação da thread sender
+2024-05-12 17:31:20 - Criação da thread receiver
+2024-05-12 17:31:20 - Erro ao ler do pipe
+2024-05-12 17:32:38 - Início do programa
+2024-05-12 17:32:38 - Processo System Manager criado
+2024-05-12 17:32:38 - Processo Monitor Engine criado
+2024-05-12 17:32:38 - Processo Auth Request Manager criado
+2024-05-12 17:32:38 - Processo Auth Engines criado
+2024-05-12 17:32:38 - Processo Auth Engines criado
+2024-05-12 17:32:38 - Processo Auth Engines criado
+2024-05-12 17:32:38 - Processo Auth Engines criado
+2024-05-12 17:32:38 - Processo Auth Engines criado
+2024-05-12 17:32:38 - Processo Auth Engines criado
+2024-05-12 17:32:38 - Erro ao ler do pipe
+2024-05-12 17:32:38 - Erro ao ler do pipe
+2024-05-12 17:32:38 - Erro ao ler do pipe
+2024-05-12 17:32:38 - Erro ao ler do pipe
+2024-05-12 17:32:38 - Erro ao ler do pipe
+2024-05-12 17:32:38 - Erro ao ler do pipe
+2024-05-12 17:32:38 - Criação da thread receiver
+2024-05-12 17:32:38 - Criação da thread sender
+2024-05-12 17:32:55 - Início do programa
+2024-05-12 17:32:55 - Processo System Manager criado
+2024-05-12 17:32:55 - Processo Monitor Engine criado
+2024-05-12 17:32:55 - Processo Auth Request Manager criado
+2024-05-12 17:32:55 - Processo Auth Engines criado
+2024-05-12 17:32:55 - Processo Auth Engines criado
+2024-05-12 17:32:55 - Processo Auth Engines criado
+2024-05-12 17:32:55 - Processo Auth Engines criado
+2024-05-12 17:32:55 - Erro ao ler do pipe
+2024-05-12 17:32:55 - Erro ao ler do pipe
+2024-05-12 17:32:55 - Erro ao ler do pipe
+2024-05-12 17:32:55 - Erro ao ler do pipe
+2024-05-12 17:32:55 - Processo Auth Engines criado
+2024-05-12 17:32:55 - Processo Auth Engines criado
+2024-05-12 17:32:55 - Criação da thread sender
+2024-05-12 17:32:55 - Erro ao ler do pipe
+2024-05-12 17:32:55 - Erro ao ler do pipe
+2024-05-12 17:32:55 - Criação da thread receiver
+2024-05-12 17:36:00 - Início do programa
+2024-05-12 17:36:00 - Processo System Manager criado
+2024-05-12 17:36:00 - Processo Monitor Engine criado
+2024-05-12 17:36:00 - Processo Auth Request Manager criado
+2024-05-12 17:36:00 - Processo Auth Engines criado
+2024-05-12 17:36:00 - Processo Auth Engines criado
+2024-05-12 17:36:00 - Processo Auth Engines criado
+2024-05-12 17:36:00 - Processo Auth Engines criado
+2024-05-12 17:36:00 - Processo Auth Engines criado
+2024-05-12 17:36:00 - Erro ao ler do pipe
+2024-05-12 17:36:00 - Erro ao ler do pipe
+2024-05-12 17:36:00 - Erro ao ler do pipe
+2024-05-12 17:36:00 - Erro ao ler do pipe
+2024-05-12 17:36:00 - Processo Auth Engines criado
+2024-05-12 17:36:00 - Erro ao ler do pipe
+2024-05-12 17:36:00 - Criação da thread sender
+2024-05-12 17:36:00 - Criação da thread receiver
+2024-05-12 17:36:00 - Erro ao ler do pipe
+2024-05-12 17:36:27 - Início do programa
+2024-05-12 17:36:27 - Processo System Manager criado
+2024-05-12 17:36:27 - Processo Monitor Engine criado
+2024-05-12 17:36:27 - Processo Auth Request Manager criado
+2024-05-12 17:36:27 - Processo Auth Engines criado
+2024-05-12 17:36:27 - Processo Auth Engines criado
+2024-05-12 17:36:27 - Processo Auth Engines criado
+2024-05-12 17:36:27 - Processo Auth Engines criado
+2024-05-12 17:36:27 - Processo Auth Engines criado
+2024-05-12 17:36:27 - Processo Auth Engines criado
+2024-05-12 17:36:27 - Erro ao ler do pipe
+2024-05-12 17:36:27 - Erro ao ler do pipe
+2024-05-12 17:36:27 - Erro ao ler do pipe
+2024-05-12 17:36:27 - Erro ao ler do pipe
+2024-05-12 17:36:27 - Erro ao ler do pipe
+2024-05-12 17:36:27 - Criação da thread sender
+2024-05-12 17:36:27 - Erro ao ler do pipe
+2024-05-12 17:36:27 - Criação da thread receiver
+2024-05-12 17:39:42 - Início do programa
+2024-05-12 17:39:42 - Processo System Manager criado
+2024-05-12 17:39:42 - Processo Monitor Engine criado
+2024-05-12 17:39:42 - Processo Auth Request Manager criado
+2024-05-12 17:39:42 - Processo Auth Engines criado
+2024-05-12 17:39:42 - Processo Auth Engines criado
+2024-05-12 17:39:42 - Processo Auth Engines criado
+2024-05-12 17:39:42 - Processo Auth Engines criado
+2024-05-12 17:39:42 - Processo Auth Engines criado
+2024-05-12 17:39:42 - Processo Auth Engines criado
+2024-05-12 17:39:42 - Erro ao ler do pipe
+2024-05-12 17:39:42 - Erro ao ler do pipe
+2024-05-12 17:39:42 - Erro ao ler do pipe
+2024-05-12 17:39:42 - Erro ao ler do pipe
+2024-05-12 17:39:42 - Erro ao ler do pipe
+2024-05-12 17:39:42 - Criação da thread sender
+2024-05-12 17:39:42 - Erro ao ler do pipe
+2024-05-12 17:39:42 - Criação da thread receiver
+2024-05-12 20:39:07 - Início do programa
+2024-05-12 20:39:07 - Processo System Manager criado
+2024-05-12 20:39:07 - Processo Monitor Engine criado
+2024-05-12 20:39:07 - Processo Auth Request Manager criado
+2024-05-12 20:39:07 - Processo Auth Engines criado
+2024-05-12 20:39:07 - Processo Auth Engines criado
+2024-05-12 20:39:07 - Processo Auth Engines criado
+2024-05-12 20:39:07 - Processo Auth Engines criado
+2024-05-12 20:39:07 - Processo Auth Engines criado
+2024-05-12 20:39:07 - Erro ao ler do pipe
+2024-05-12 20:39:07 - Erro ao ler do pipe
+2024-05-12 20:39:07 - Processo Auth Engines criado
+2024-05-12 20:39:07 - Criação da thread sender
+2024-05-12 20:39:07 - Erro ao ler do pipe
+2024-05-12 20:39:07 - Erro ao ler do pipe
+2024-05-12 20:39:07 - Erro ao ler do pipe
+2024-05-12 20:39:07 - Erro ao ler do pipe
+2024-05-12 20:39:07 - Criação da thread receiver
+2024-05-12 20:40:50 - Início do programa
+2024-05-12 20:40:50 - Processo System Manager criado
+2024-05-12 20:40:50 - Processo Monitor Engine criado
+2024-05-12 20:40:50 - Processo Auth Request Manager criado
+2024-05-12 20:40:50 - Processo Auth Engines criado
+2024-05-12 20:40:50 - Processo Auth Engines criado
+2024-05-12 20:40:50 - Processo Auth Engines criado
+2024-05-12 20:40:50 - Processo Auth Engines criado
+2024-05-12 20:40:50 - Processo Auth Engines criado
+2024-05-12 20:40:50 - Erro ao ler do pipe
+2024-05-12 20:40:50 - Processo Auth Engines criado
+2024-05-12 20:40:50 - Erro ao ler do pipe
+2024-05-12 20:40:50 - Erro ao ler do pipe
+2024-05-12 20:40:50 - Erro ao ler do pipe
+2024-05-12 20:40:50 - Erro ao ler do pipe
+2024-05-12 20:40:50 - Erro ao ler do pipe
+2024-05-12 20:40:50 - Criação da thread sender
+2024-05-12 20:40:50 - Criação da thread receiver
+2024-05-12 20:42:25 - Início do programa
+2024-05-12 20:42:25 - Processo System Manager criado
+2024-05-12 20:42:25 - Processo Monitor Engine criado
+2024-05-12 20:42:25 - Processo Auth Request Manager criado
+2024-05-12 20:42:25 - Processo Auth Engines criado
+2024-05-12 20:42:25 - Processo Auth Engines criado
+2024-05-12 20:42:25 - Processo Auth Engines criado
+2024-05-12 20:42:25 - Processo Auth Engines criado
+2024-05-12 20:42:25 - Processo Auth Engines criado
+2024-05-12 20:42:25 - Erro ao ler do pipe
+2024-05-12 20:42:25 - Processo Auth Engines criado
+2024-05-12 20:42:25 - Erro ao ler do pipe
+2024-05-12 20:42:25 - Erro ao ler do pipe
+2024-05-12 20:42:25 - Erro ao ler do pipe
+2024-05-12 20:42:25 - Criação da thread sender
+2024-05-12 20:42:25 - Erro ao ler do pipe
+2024-05-12 20:42:25 - Criação da thread receiver
+2024-05-12 20:42:25 - Erro ao ler do pipe
+2024-05-12 20:44:22 - Início do programa
+2024-05-12 20:44:22 - Processo System Manager criado
+2024-05-12 20:44:22 - Processo Monitor Engine criado
+2024-05-12 20:44:22 - Processo Auth Request Manager criado
+2024-05-12 20:44:22 - Processo Auth Engines criado
+2024-05-12 20:44:22 - Processo Auth Engines criado
+2024-05-12 20:44:22 - Processo Auth Engines criado
+2024-05-12 20:44:22 - Processo Auth Engines criado
+2024-05-12 20:44:22 - Processo Auth Engines criado
+2024-05-12 20:44:22 - Processo Auth Engines criado
+2024-05-12 20:44:22 - Erro ao ler do pipe
+2024-05-12 20:44:22 - Erro ao ler do pipe
+2024-05-12 20:44:22 - Erro ao ler do pipe
+2024-05-12 20:44:22 - Erro ao ler do pipe
+2024-05-12 20:44:22 - Erro ao ler do pipe
+2024-05-12 20:44:22 - Criação da thread sender
+2024-05-12 20:44:22 - Criação da thread receiver
+2024-05-12 20:44:22 - Erro ao ler do pipe
+2024-05-12 20:45:33 - Início do programa
+2024-05-12 20:45:33 - Processo System Manager criado
+2024-05-12 20:45:33 - Processo Monitor Engine criado
+2024-05-12 20:45:33 - Processo Auth Request Manager criado
+2024-05-12 20:45:33 - Processo Auth Engines criado
+2024-05-12 20:45:33 - Processo Auth Engines criado
+2024-05-12 20:45:33 - Processo Auth Engines criado
+2024-05-12 20:45:33 - Processo Auth Engines criado
+2024-05-12 20:45:33 - Processo Auth Engines criado
+2024-05-12 20:45:33 - Erro ao ler do pipe
+2024-05-12 20:45:33 - Erro ao ler do pipe
+2024-05-12 20:45:33 - Erro ao ler do pipe
+2024-05-12 20:45:33 - Erro ao ler do pipe
+2024-05-12 20:45:33 - Erro ao ler do pipe
+2024-05-12 20:45:33 - Criação da thread sender
+2024-05-12 20:45:33 - Processo Auth Engines criado
+2024-05-12 20:45:34 - Criação da thread receiver
+2024-05-12 20:45:34 - Erro ao ler do pipe
+2024-05-12 20:49:43 - Início do programa
+2024-05-12 20:49:43 - Processo System Manager criado
+2024-05-12 20:49:43 - Processo Monitor Engine criado
+2024-05-12 20:49:43 - Processo Auth Request Manager criado
+2024-05-12 20:49:43 - Processo Auth Engines criado
+2024-05-12 20:49:43 - Processo Auth Engines criado
+2024-05-12 20:49:43 - Processo Auth Engines criado
+2024-05-12 20:49:43 - Processo Auth Engines criado
+2024-05-12 20:49:43 - Erro ao ler do pipe
+2024-05-12 20:49:43 - Processo Auth Engines criado
+2024-05-12 20:49:43 - Erro ao ler do pipe
+2024-05-12 20:49:43 - Erro ao ler do pipe
+2024-05-12 20:49:43 - Processo Auth Engines criado
+2024-05-12 20:49:43 - Erro ao ler do pipe
+2024-05-12 20:49:43 - Erro ao ler do pipe
+2024-05-12 20:49:43 - Criação da thread sender
+2024-05-12 20:49:43 - Erro ao ler do pipe
+2024-05-12 20:49:43 - Criação da thread receiver
+2024-05-12 21:16:58 - Início do programa
+2024-05-12 21:16:58 - Processo System Manager criado
+2024-05-12 21:16:58 - Processo Monitor Engine criado
+2024-05-12 21:16:58 - Processo Auth Request Manager criado
+2024-05-12 21:16:58 - Processo Auth Engines criado
+2024-05-12 21:16:58 - Processo Auth Engines criado
+2024-05-12 21:16:58 - Processo Auth Engines criado
+2024-05-12 21:16:58 - Processo Auth Engines criado
+2024-05-12 21:16:58 - Erro ao ler do pipe
+2024-05-12 21:16:58 - Erro ao ler do pipe
+2024-05-12 21:16:58 - Erro ao ler do pipe
+2024-05-12 21:16:58 - Processo Auth Engines criado
+2024-05-12 21:16:58 - Processo Auth Engines criado
+2024-05-12 21:16:58 - Criação da thread sender
+2024-05-12 21:16:58 - Erro ao ler do pipe
+2024-05-12 21:16:58 - Erro ao ler do pipe
+2024-05-12 21:16:58 - Erro ao ler do pipe
+2024-05-12 21:16:58 - Criação da thread receiver
+2024-05-12 21:26:57 - Início do programa
+2024-05-12 21:26:57 - Processo System Manager criado
+2024-05-12 21:26:57 - Processo Monitor Engine criado
+2024-05-12 21:26:57 - Processo Auth Request Manager criado
+2024-05-12 21:26:57 - Processo Auth Engines criado
+2024-05-12 21:26:57 - Processo Auth Engines criado
+2024-05-12 21:26:57 - Processo Auth Engines criado
+2024-05-12 21:26:57 - Processo Auth Engines criado
+2024-05-12 21:26:57 - Processo Auth Engines criado
+2024-05-12 21:26:57 - Erro ao ler do pipe
+2024-05-12 21:26:57 - Processo Auth Engines criado
+2024-05-12 21:26:57 - Erro ao ler do pipe
+2024-05-12 21:26:57 - Erro ao ler do pipe
+2024-05-12 21:26:57 - Erro ao ler do pipe
+2024-05-12 21:26:57 - Erro ao ler do pipe
+2024-05-12 21:26:57 - Criação da thread sender
+2024-05-12 21:26:57 - Erro ao ler do pipe
+2024-05-12 21:26:57 - Criação da thread receiver
+2024-05-12 21:28:01 - Início do programa
+2024-05-12 21:28:01 - Processo System Manager criado
+2024-05-12 21:28:01 - Processo Monitor Engine criado
+2024-05-12 21:28:01 - Processo Auth Request Manager criado
+2024-05-12 21:28:01 - Processo Auth Engines criado
+2024-05-12 21:28:01 - Processo Auth Engines criado
+2024-05-12 21:28:01 - Processo Auth Engines criado
+2024-05-12 21:28:01 - Processo Auth Engines criado
+2024-05-12 21:28:01 - Processo Auth Engines criado
+2024-05-12 21:28:01 - Erro ao ler do pipe
+2024-05-12 21:28:01 - Erro ao ler do pipe
+2024-05-12 21:28:01 - Erro ao ler do pipe
+2024-05-12 21:28:01 - Erro ao ler do pipe
+2024-05-12 21:28:01 - Processo Auth Engines criado
+2024-05-12 21:28:01 - Criação da thread sender
+2024-05-12 21:28:01 - Criação da thread receiver
+2024-05-12 21:28:01 - Erro ao ler do pipe
+2024-05-12 21:28:01 - Erro ao ler do pipe
+2024-05-12 21:29:34 - Início do programa
+2024-05-12 21:29:34 - Processo System Manager criado
+2024-05-12 21:29:34 - Processo Monitor Engine criado
+2024-05-12 21:29:34 - Processo Auth Request Manager criado
+2024-05-12 21:29:34 - Processo Auth Engines criado
+2024-05-12 21:29:34 - Processo Auth Engines criado
+2024-05-12 21:29:34 - Processo Auth Engines criado
+2024-05-12 21:29:34 - Processo Auth Engines criado
+2024-05-12 21:29:34 - Criação da thread sender
+2024-05-12 21:29:34 - Erro ao ler do pipe
+2024-05-12 21:29:34 - Erro ao ler do pipe
+2024-05-12 21:29:34 - Erro ao ler do pipe
+2024-05-12 21:29:34 - Processo Auth Engines criado
+2024-05-12 21:29:34 - Erro ao ler do pipe
+2024-05-12 21:29:34 - Processo Auth Engines criado
+2024-05-12 21:29:34 - Erro ao ler do pipe
+2024-05-12 21:29:34 - Criação da thread receiver
+2024-05-12 21:29:34 - Erro ao ler do pipe
+2024-05-12 21:32:14 - Início do programa
+2024-05-12 21:32:14 - Processo System Manager criado
+2024-05-12 21:32:14 - Processo Monitor Engine criado
+2024-05-12 21:32:14 - Processo Auth Request Manager criado
+2024-05-12 21:32:14 - Processo Auth Engines criado
+2024-05-12 21:32:14 - Processo Auth Engines criado
+2024-05-12 21:32:14 - Processo Auth Engines criado
+2024-05-12 21:32:14 - Processo Auth Engines criado
+2024-05-12 21:32:14 - Processo Auth Engines criado
+2024-05-12 21:32:14 - Processo Auth Engines criado
+2024-05-12 21:32:14 - Erro ao ler do pipe
+2024-05-12 21:32:14 - Erro ao ler do pipe
+2024-05-12 21:32:14 - Erro ao ler do pipe
+2024-05-12 21:32:14 - Criação da thread sender
+2024-05-12 21:32:14 - Criação da thread receiver
+2024-05-12 21:32:14 - Erro ao ler do pipe
+2024-05-12 21:32:14 - Erro ao ler do pipe
+2024-05-12 21:32:14 - Erro ao ler do pipe
+2024-05-12 21:32:38 - Início do programa
+2024-05-12 21:32:38 - Processo System Manager criado
+2024-05-12 21:32:38 - Processo Monitor Engine criado
+2024-05-12 21:32:38 - Processo Auth Request Manager criado
+2024-05-12 21:32:38 - Processo Auth Engines criado
+2024-05-12 21:32:38 - Processo Auth Engines criado
+2024-05-12 21:32:38 - Processo Auth Engines criado
+2024-05-12 21:32:38 - Processo Auth Engines criado
+2024-05-12 21:32:38 - Processo Auth Engines criado
+2024-05-12 21:32:38 - Erro ao ler do pipe
+2024-05-12 21:32:38 - Erro ao ler do pipe
+2024-05-12 21:32:38 - Erro ao ler do pipe
+2024-05-12 21:32:38 - Erro ao ler do pipe
+2024-05-12 21:32:38 - Processo Auth Engines criado
+2024-05-12 21:32:38 - Erro ao ler do pipe
+2024-05-12 21:32:38 - Criação da thread sender
+2024-05-12 21:32:38 - Criação da thread receiver
+2024-05-12 21:32:38 - Erro ao ler do pipe
+2024-05-12 21:33:10 - Início do programa
+2024-05-12 21:33:10 - Processo System Manager criado
+2024-05-12 21:33:10 - Processo Monitor Engine criado
+2024-05-12 21:33:10 - Processo Auth Request Manager criado
+2024-05-12 21:33:10 - Processo Auth Engines criado
+2024-05-12 21:33:10 - Processo Auth Engines criado
+2024-05-12 21:33:10 - Processo Auth Engines criado
+2024-05-12 21:33:10 - Processo Auth Engines criado
+2024-05-12 21:33:10 - Processo Auth Engines criado
+2024-05-12 21:33:10 - Erro ao ler do pipe
+2024-05-12 21:33:10 - Erro ao ler do pipe
+2024-05-12 21:33:10 - Erro ao ler do pipe
+2024-05-12 21:33:10 - Erro ao ler do pipe
+2024-05-12 21:33:10 - Processo Auth Engines criado
+2024-05-12 21:33:10 - Criação da thread sender
+2024-05-12 21:33:10 - Erro ao ler do pipe
+2024-05-12 21:33:10 - Criação da thread receiver
+2024-05-12 21:33:10 - Erro ao ler do pipe
+2024-05-12 21:34:33 - Início do programa
+2024-05-12 21:34:33 - Processo System Manager criado
+2024-05-12 21:34:33 - Processo Monitor Engine criado
+2024-05-12 21:34:33 - Processo Auth Request Manager criado
+2024-05-12 21:34:33 - Processo Auth Engines criado
+2024-05-12 21:34:33 - Processo Auth Engines criado
+2024-05-12 21:34:33 - Processo Auth Engines criado
+2024-05-12 21:34:33 - Processo Auth Engines criado
+2024-05-12 21:34:33 - Erro ao ler do pipe
+2024-05-12 21:34:33 - Erro ao ler do pipe
+2024-05-12 21:34:33 - Erro ao ler do pipe
+2024-05-12 21:34:33 - Erro ao ler do pipe
+2024-05-12 21:34:33 - Processo Auth Engines criado
+2024-05-12 21:34:33 - Processo Auth Engines criado
+2024-05-12 21:34:33 - Criação da thread sender
+2024-05-12 21:34:33 - Erro ao ler do pipe
+2024-05-12 21:34:33 - Erro ao ler do pipe
+2024-05-12 21:34:33 - Criação da thread receiver
+2024-05-12 21:36:53 - Início do programa
+2024-05-12 21:36:53 - Processo System Manager criado
+2024-05-12 21:36:53 - Processo Monitor Engine criado
+2024-05-12 21:36:53 - Processo Auth Request Manager criado
+2024-05-12 21:36:53 - Processo Auth Engines criado
+2024-05-12 21:36:53 - Processo Auth Engines criado
+2024-05-12 21:36:53 - Processo Auth Engines criado
+2024-05-12 21:36:53 - Processo Auth Engines criado
+2024-05-12 21:36:53 - Processo Auth Engines criado
+2024-05-12 21:36:53 - Processo Auth Engines criado
+2024-05-12 21:36:53 - Erro ao ler do pipe
+2024-05-12 21:36:53 - Erro ao ler do pipe
+2024-05-12 21:36:53 - Erro ao ler do pipe
+2024-05-12 21:36:53 - Erro ao ler do pipe
+2024-05-12 21:36:53 - Erro ao ler do pipe
+2024-05-12 21:36:53 - Criação da thread sender
+2024-05-12 21:36:53 - Criação da thread receiver
+2024-05-12 21:36:53 - Erro ao ler do pipe
+2024-05-12 21:49:14 - Início do programa
+2024-05-12 21:49:14 - Processo System Manager criado
+2024-05-12 21:49:14 - Processo Monitor Engine criado
+2024-05-12 21:49:14 - Processo Auth Request Manager criado
+2024-05-12 21:49:14 - Processo Auth Engines criado
+2024-05-12 21:49:14 - Processo Auth Engines criado
+2024-05-12 21:49:14 - Processo Auth Engines criado
+2024-05-12 21:49:14 - Erro ao ler do pipe
+2024-05-12 21:49:14 - Processo Auth Engines criado
+2024-05-12 21:49:14 - Erro ao ler do pipe
+2024-05-12 21:49:14 - Processo Auth Engines criado
+2024-05-12 21:49:14 - Processo Auth Engines criado
+2024-05-12 21:49:14 - Erro ao ler do pipe
+2024-05-12 21:49:14 - Erro ao ler do pipe
+2024-05-12 21:49:15 - Erro ao ler do pipe
+2024-05-12 21:49:14 - Criação da thread sender
+2024-05-12 21:49:15 - Criação da thread receiver
+2024-05-12 21:49:15 - Erro ao ler do pipe
+2024-05-13 11:12:42 - Início do programa
+2024-05-13 11:12:42 - Processo System Manager criado
+2024-05-13 11:12:42 - Processo Monitor Engine criado
+2024-05-13 11:12:42 - Processo Auth Request Manager criado
+2024-05-13 11:12:42 - Processo Auth Engines criado
+2024-05-13 11:12:42 - Processo Auth Engines criado
+2024-05-13 11:12:42 - Processo Auth Engines criado
+2024-05-13 11:12:42 - Processo Auth Engines criado
+2024-05-13 11:12:42 - Erro ao ler do pipe
+2024-05-13 11:12:42 - Processo Auth Engines criado
+2024-05-13 11:12:42 - Erro ao ler do pipe
+2024-05-13 11:12:42 - Erro ao ler do pipe
+2024-05-13 11:12:42 - Erro ao ler do pipe
+2024-05-13 11:12:42 - Erro ao ler do pipe
+2024-05-13 11:12:42 - Processo Auth Engines criado
+2024-05-13 11:12:42 - Criação da thread sender
+2024-05-13 11:12:42 - Criação da thread receiver
+2024-05-13 11:12:42 - Erro ao ler do pipe
+2024-05-13 12:01:31 - Início do programa
+2024-05-13 12:01:31 - Processo System Manager criado
+2024-05-13 12:01:31 - Processo Monitor Engine criado
+2024-05-13 12:01:31 - Processo Auth Request Manager criado
+2024-05-13 12:01:31 - Processo Auth Engines criado
+2024-05-13 12:01:31 - Processo Auth Engines criado
+2024-05-13 12:01:31 - Processo Auth Engines criado
+2024-05-13 12:01:31 - Processo Auth Engines criado
+2024-05-13 12:01:31 - Processo Auth Engines criado
+2024-05-13 12:01:31 - Erro ao ler do pipe
+2024-05-13 12:01:31 - Erro ao ler do pipe
+2024-05-13 12:01:31 - Processo Auth Engines criado
+2024-05-13 12:01:31 - Criação da thread sender
+2024-05-13 12:01:31 - Erro ao ler do pipe
+2024-05-13 12:01:31 - Erro ao ler do pipe
+2024-05-13 12:01:31 - Erro ao ler do pipe
+2024-05-13 12:01:31 - Erro ao ler do pipe
+2024-05-13 12:01:31 - Criação da thread receiver
+2024-05-13 14:15:55 - Início do programa
+2024-05-13 14:15:55 - Processo Auth Request Manager criado
+2024-05-13 14:15:55 - Processo Auth Engines criado
+2024-05-13 14:15:55 - Criação da thread sender
+2024-05-13 14:15:55 - Criação da thread receiver
+2024-05-13 14:16:44 - Início do programa
+2024-05-13 14:16:44 - Processo Auth Request Manager criado
+2024-05-13 14:16:44 - Erro ao criar o named user_pipe
+2024-05-13 14:17:53 - Início do programa
+2024-05-13 14:17:53 - Processo Auth Request Manager criado
+2024-05-13 14:17:53 - Processo Auth Engines criado
+2024-05-13 14:17:53 - Criação da thread sender
+2024-05-13 14:17:53 - Criação da thread receiver
+2024-05-13 14:17:55 - Início do programa
+2024-05-13 14:17:55 - Processo Auth Request Manager criado
+2024-05-13 14:17:55 - Erro ao criar o named user_pipe
+2024-05-13 14:18:02 - Início do programa
+2024-05-13 14:18:02 - Processo Auth Request Manager criado
+2024-05-13 14:18:02 - Erro ao criar o named user_pipe
+2024-05-13 14:25:14 - Início do programa
+2024-05-13 14:25:14 - Processo Auth Request Manager criado
+2024-05-13 14:25:14 - Processo Auth Engines criado
+2024-05-13 14:25:14 - Criação da thread sender
+2024-05-13 14:25:15 - Criação da thread receiver
+2024-05-13 14:25:43 - Início do programa
+2024-05-13 14:25:43 - Processo Auth Request Manager criado
+2024-05-13 14:25:43 - Erro ao criar o named user_pipe
+2024-05-13 14:27:01 - Início do programa
+2024-05-13 14:27:01 - Processo Auth Request Manager criado
+2024-05-13 14:27:01 - Processo Auth Engines criado
+2024-05-13 14:27:01 - Criação da thread sender
+2024-05-13 14:27:01 - Criação da thread receiver
+2024-05-13 14:27:20 - Início do programa
+2024-05-13 14:27:20 - Processo Auth Request Manager criado
+2024-05-13 14:27:20 - Erro ao criar o named user_pipe
+2024-05-13 14:28:39 - Início do programa
+2024-05-13 14:28:39 - Processo Auth Request Manager criado
+2024-05-13 14:28:39 - Processo Auth Engines criado
+2024-05-13 14:28:39 - Criação da thread sender
+2024-05-13 14:28:39 - Criação da thread receiver
+2024-05-13 14:31:13 - Início do programa
+2024-05-13 14:31:13 - Processo System Manager criado
+2024-05-13 14:31:13 - Processo Monitor Engine criado
+2024-05-13 14:31:13 - Processo Auth Request Manager criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Criação da thread sender
+2024-05-13 14:31:13 - Criação da thread receiver
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:13 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Início do programa
+2024-05-13 14:31:37 - Processo System Manager criado
+2024-05-13 14:31:37 - Processo Monitor Engine criado
+2024-05-13 14:31:37 - Processo Auth Request Manager criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Criação da thread sender
+2024-05-13 14:31:37 - Criação da thread receiver
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:31:37 - Processo Auth Engines criado
+2024-05-13 14:32:59 - Início do programa
+2024-05-13 14:32:59 - Processo System Manager criado
+2024-05-13 14:32:59 - Processo Monitor Engine criado
+2024-05-13 14:32:59 - Processo Auth Request Manager criado
+2024-05-13 14:32:59 - Processo Auth Engines criado
+2024-05-13 14:32:59 - Criação da thread receiver
+2024-05-13 14:32:59 - Criação da thread sender
+2024-05-13 14:32:59 - Processo Auth Engines criado
+2024-05-13 14:32:59 - Processo Auth Engines criado
+2024-05-13 14:32:59 - Processo Auth Engines criado
+2024-05-13 14:32:59 - Processo Auth Engines criado
+2024-05-13 14:32:59 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Processo Auth Engines criado
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:00 - Criação da thread receiver
+2024-05-13 14:33:00 - Criação da thread sender
+2024-05-13 14:33:51 - Início do programa
+2024-05-13 14:33:51 - Processo System Manager criado
+2024-05-13 14:33:51 - Processo Monitor Engine criado
+2024-05-13 14:33:51 - Processo Auth Request Manager criado
+2024-05-13 14:33:51 - Criação da thread sender
+2024-05-13 14:33:51 - Criação da thread receiver
+2024-05-13 14:33:51 - Processo Auth Engines criado
+2024-05-13 14:33:51 - Processo Auth Engines criado
+2024-05-13 14:33:51 - Processo Auth Engines criado
+2024-05-13 14:33:51 - Processo Auth Engines criado
+2024-05-13 14:33:51 - Processo Auth Engines criado
+2024-05-13 14:33:51 - Processo Auth Engines criado
+2024-05-13 14:35:26 - Início do programa
+2024-05-13 14:35:26 - Processo System Manager criado
+2024-05-13 14:35:26 - Processo Monitor Engine criado
+2024-05-13 14:35:26 - Processo Auth Request Manager criado
+2024-05-13 14:35:26 - Criação da thread receiver
+2024-05-13 14:35:26 - Processo Auth Engines criado
+2024-05-13 14:35:26 - Criação da thread sender
+2024-05-13 14:35:26 - Processo Auth Engines criado
+2024-05-13 14:35:26 - Processo Auth Engines criado
+2024-05-13 14:35:26 - Processo Auth Engines criado
+2024-05-13 14:35:26 - Processo Auth Engines criado
+2024-05-13 14:35:26 - Processo Auth Engines criado
+2024-05-13 14:35:36 - Início do programa
+2024-05-13 14:35:36 - Processo System Manager criado
+2024-05-13 14:35:36 - Processo Monitor Engine criado
+2024-05-13 14:35:36 - Processo Auth Request Manager criado
+2024-05-13 14:35:36 - Processo Auth Engines criado
+2024-05-13 14:35:36 - Processo Auth Engines criado
+2024-05-13 14:35:36 - Processo Auth Engines criado
+2024-05-13 14:35:36 - Processo Auth Engines criado
+2024-05-13 14:35:36 - Processo Auth Engines criado
+2024-05-13 14:35:36 - Processo Auth Engines criado
+2024-05-13 14:35:36 - Criação da thread sender
+2024-05-13 14:35:36 - Criação da thread receiver
+2024-05-13 15:01:14 - Início do programa
+2024-05-13 15:01:14 - Processo System Manager criado
+2024-05-13 15:01:14 - Processo Monitor Engine criado
+2024-05-13 15:01:14 - Processo Auth Request Manager criado
+2024-05-13 15:01:14 - Criação da thread receiver
+2024-05-13 15:01:14 - Processo Auth Engines criado
+2024-05-13 15:01:14 - Criação da thread sender
+2024-05-13 15:01:14 - Processo Auth Engines criado
+2024-05-13 15:01:14 - Processo Auth Engines criado
+2024-05-13 15:01:14 - Processo Auth Engines criado
+2024-05-13 15:01:14 - Processo Auth Engines criado
+2024-05-13 15:01:14 - Processo Auth Engines criado
+2024-05-13 15:44:12 - Início do programa
+2024-05-13 15:44:12 - Processo System Manager criado
+2024-05-13 15:44:12 - Processo Monitor Engine criado
+2024-05-13 15:44:12 - Processo Auth Request Manager criado
+2024-05-13 15:44:12 - Criação da thread sender
+2024-05-13 15:44:12 - Criação da thread receiver
+2024-05-13 15:57:11 - Início do programa
+2024-05-13 15:57:11 - Processo System Manager criado
+2024-05-13 15:57:12 - Processo Monitor Engine criado
+2024-05-13 15:57:12 - Processo Auth Request Manager criado
+2024-05-13 15:57:12 - Criação da thread receiver
+2024-05-13 15:57:12 - Criação da thread sender
+2024-05-13 15:57:20 - Início do programa
+2024-05-13 15:57:20 - Processo System Manager criado
+2024-05-13 15:57:20 - Processo Monitor Engine criado
+2024-05-13 15:57:20 - Processo Auth Request Manager criado
+2024-05-13 15:57:20 - Criação da thread receiver
+2024-05-13 15:57:20 - Criação da thread sender
+2024-05-13 15:57:21 - Início do programa
+2024-05-13 15:57:21 - Processo System Manager criado
+2024-05-13 15:57:21 - Processo Monitor Engine criado
+2024-05-13 15:57:21 - Processo Auth Request Manager criado
+2024-05-13 15:57:21 - Criação da thread sender
+2024-05-13 15:57:21 - Criação da thread receiver
+2024-05-13 16:53:44 - Início do programa
+2024-05-13 16:53:44 - Processo System Manager criado
+2024-05-13 16:53:44 - Processo Monitor Engine criado
+2024-05-13 16:53:44 - Processo Auth Request Manager criado
+2024-05-13 16:53:44 - Criação da thread receiver
+2024-05-13 16:53:44 - Criação da thread sender
+2024-05-13 16:54:02 - Início do programa
+2024-05-13 16:54:02 - Processo System Manager criado
+2024-05-13 16:54:02 - Processo Monitor Engine criado
+2024-05-13 16:54:02 - Processo Auth Request Manager criado
+2024-05-13 16:54:02 - Criação da thread receiver
+2024-05-13 16:54:02 - Criação da thread sender
+2024-05-13 16:55:47 - Início do programa
+2024-05-13 16:55:47 - Processo System Manager criado
+2024-05-13 16:55:47 - Processo Monitor Engine criado
+2024-05-13 16:55:47 - Processo Auth Request Manager criado
+2024-05-13 16:55:47 - Criação da thread receiver
+2024-05-13 16:55:47 - Criação da thread sender
+2024-05-13 17:04:01 - Início do programa
+2024-05-13 17:04:01 - Processo System Manager criado
+2024-05-13 17:04:01 - Processo Monitor Engine criado
+2024-05-13 17:04:01 - Processo Auth Request Manager criado
+2024-05-13 17:04:01 - Criação da thread sender
+2024-05-13 17:04:01 - Criação da thread receiver
+2024-05-13 17:05:35 - Início do programa
+2024-05-13 17:05:35 - Processo System Manager criado
+2024-05-13 17:05:35 - Processo Monitor Engine criado
+2024-05-13 17:05:35 - Processo Auth Request Manager criado
+2024-05-13 17:05:35 - Criação da thread sender
+2024-05-13 17:05:35 - Criação da thread receiver
+2024-05-13 17:06:32 - Início do programa
+2024-05-13 17:06:32 - Processo System Manager criado
+2024-05-13 17:06:32 - Processo Monitor Engine criado
+2024-05-13 17:06:32 - Processo Auth Request Manager criado
+2024-05-13 17:06:32 - Criação da thread sender
+2024-05-13 17:06:32 - Criação da thread receiver
+2024-05-13 17:10:58 - Início do programa
+2024-05-13 17:10:58 - Processo System Manager criado
+2024-05-13 17:10:58 - Processo Monitor Engine criado
+2024-05-13 17:10:58 - Processo Auth Request Manager criado
+2024-05-13 17:10:58 - Criação da thread sender
+2024-05-13 17:10:58 - Criação da thread receiver
+2024-05-13 17:11:36 - Início do programa
+2024-05-13 17:11:36 - Processo System Manager criado
+2024-05-13 17:11:36 - Processo Monitor Engine criado
+2024-05-13 17:11:36 - Processo Auth Request Manager criado
+2024-05-13 17:11:36 - Criação da thread sender
+2024-05-13 17:11:36 - Criação da thread receiver
+2024-05-13 17:12:25 - Início do programa
+2024-05-13 17:12:25 - Processo System Manager criado
+2024-05-13 17:12:25 - Processo Monitor Engine criado
+2024-05-13 17:12:25 - Processo Auth Request Manager criado
+2024-05-13 17:12:25 - Criação da thread receiver
+2024-05-13 17:12:25 - Criação da thread sender
+2024-05-13 17:14:50 - Início do programa
+2024-05-13 17:14:50 - Processo System Manager criado
+2024-05-13 17:14:50 - Processo Monitor Engine criado
+2024-05-13 17:14:50 - Processo Auth Request Manager criado
+2024-05-13 17:14:50 - Criação da thread receiver
+2024-05-13 17:14:50 - Criação da thread sender
+2024-05-13 17:15:24 - Início do programa
+2024-05-13 17:15:24 - Processo System Manager criado
+2024-05-13 17:15:24 - Processo Monitor Engine criado
+2024-05-13 17:15:24 - Processo Auth Request Manager criado
+2024-05-13 17:15:24 - Criação da thread receiver
+2024-05-13 17:15:24 - Criação da thread sender
+2024-05-13 17:16:22 - Início do programa
+2024-05-13 17:16:22 - Processo System Manager criado
+2024-05-13 17:16:22 - Processo Monitor Engine criado
+2024-05-13 17:16:22 - Processo Auth Request Manager criado
+2024-05-13 17:16:22 - Criação da thread receiver
+2024-05-13 17:16:22 - Criação da thread sender
+2024-05-13 17:17:13 - Início do programa
+2024-05-13 17:17:13 - Processo System Manager criado
+2024-05-13 17:17:13 - Processo Monitor Engine criado
+2024-05-13 17:17:13 - Processo Auth Request Manager criado
+2024-05-13 17:17:13 - Criação da thread receiver
+2024-05-13 17:17:13 - Criação da thread sender
+2024-05-13 17:22:22 - Início do programa
+2024-05-13 17:22:22 - Processo System Manager criado
+2024-05-13 17:22:22 - Processo Monitor Engine criado
+2024-05-13 17:22:22 - Processo Auth Request Manager criado
+2024-05-13 17:22:22 - Criação da thread receiver
+2024-05-13 17:22:22 - Criação da thread sender
+2024-05-13 17:22:55 - Início do programa
+2024-05-13 17:22:55 - Processo System Manager criado
+2024-05-13 17:22:55 - Processo Monitor Engine criado
+2024-05-13 17:22:56 - Processo Auth Request Manager criado
+2024-05-13 17:22:56 - Criação da thread receiver
+2024-05-13 17:22:56 - Criação da thread sender
+2024-05-13 17:37:19 - Início do programa
+2024-05-13 17:37:19 - Processo System Manager criado
+2024-05-13 17:37:19 - Processo Monitor Engine criado
+2024-05-13 17:37:19 - Processo Auth Request Manager criado
+2024-05-13 17:37:19 - Criação da thread receiver
+2024-05-13 17:37:19 - Criação da thread sender
+2024-05-13 17:38:51 - Início do programa
+2024-05-13 17:38:51 - Processo System Manager criado
+2024-05-13 17:38:51 - Processo Monitor Engine criado
+2024-05-13 17:38:51 - Processo Auth Request Manager criado
+2024-05-13 17:38:51 - Criação da thread sender
+2024-05-13 17:38:51 - Criação da thread receiver
+2024-05-13 17:48:03 - Início do programa
+2024-05-13 17:48:03 - Processo System Manager criado
+2024-05-13 17:48:03 - Processo Monitor Engine criado
+2024-05-13 17:48:03 - Processo Auth Request Manager criado
+2024-05-13 17:48:03 - Criação da thread sender
+2024-05-13 17:48:03 - Criação da thread receiver
+2024-05-13 18:25:03 - Início do programa
+2024-05-13 18:25:03 - Processo System Manager criado
+2024-05-13 18:25:03 - Processo Monitor Engine criado
+2024-05-13 18:25:03 - Processo Auth Request Manager criado
+2024-05-13 18:25:03 - Criação da thread receiver
+2024-05-13 18:25:03 - Criação da thread sender
+2024-05-13 18:25:15 - Início do programa
+2024-05-13 18:25:15 - Processo System Manager criado
+2024-05-13 18:25:15 - Processo Monitor Engine criado
+2024-05-13 18:25:15 - Processo Auth Request Manager criado
+2024-05-13 18:25:15 - Criação da thread sender
+2024-05-13 18:25:15 - Criação da thread receiver
+2024-05-13 18:39:48 - Início do programa
+2024-05-13 18:39:48 - Processo System Manager criado
+2024-05-13 18:39:48 - Processo Monitor Engine criado
+2024-05-13 18:39:48 - Processo Auth Request Manager criado
+2024-05-13 18:39:48 - Criação da thread receiver
+2024-05-13 18:39:48 - Criação da thread sender
+2024-05-13 18:43:29 - Início do programa
+2024-05-13 18:43:29 - Processo System Manager criado
+2024-05-13 18:43:29 - Processo Monitor Engine criado
+2024-05-13 18:43:29 - Processo Auth Request Manager criado
+2024-05-13 18:43:29 - Criação da thread receiver
+2024-05-13 18:43:29 - Criação da thread sender
+2024-05-13 18:47:52 - Início do programa
+2024-05-13 18:47:52 - Processo System Manager criado
+2024-05-13 18:47:52 - Processo Monitor Engine criado
+2024-05-13 18:47:52 - Processo Auth Request Manager criado
+2024-05-13 18:47:52 - Criação da thread sender
+2024-05-13 18:47:52 - Criação da thread receiver
+2024-05-13 18:48:10 - Início do programa
+2024-05-13 18:48:10 - Processo System Manager criado
+2024-05-13 18:48:10 - Processo Monitor Engine criado
+2024-05-13 18:48:10 - Processo Auth Request Manager criado
+2024-05-13 18:48:10 - Criação da thread sender
+2024-05-13 18:48:10 - Criação da thread receiver
+2024-05-13 18:59:43 - Início do programa
+2024-05-13 18:59:43 - Processo System Manager criado
+2024-05-13 18:59:43 - Processo Monitor Engine criado
+2024-05-13 18:59:43 - Processo Auth Request Manager criado
+2024-05-13 18:59:43 - Criação da thread receiver
+2024-05-13 18:59:43 - Criação da thread sender
+2024-05-13 19:00:52 - Fim do programa
+2024-05-13 19:01:07 - Início do programa
+2024-05-13 19:01:07 - Processo System Manager criado
+2024-05-13 19:01:07 - Processo Auth Request Manager criado
+2024-05-13 19:01:07 - Processo Monitor Engine criado
+2024-05-13 19:01:07 - Criação da thread sender
+2024-05-13 19:01:07 - Criação da thread receiver
+2024-05-13 19:01:20 - Fim do programa
+2024-05-13 19:03:04 - Início do programa
+2024-05-13 19:03:04 - Processo System Manager criado
+2024-05-13 19:03:04 - Processo Monitor Engine criado
+2024-05-13 19:03:04 - Processo Auth Request Manager criado
+2024-05-13 19:03:04 - Criação da thread sender
+2024-05-13 19:03:04 - Criação da thread receiver
+2024-05-13 19:04:50 - Início do programa
+2024-05-13 19:04:50 - Processo System Manager criado
+2024-05-13 19:04:50 - Processo Monitor Engine criado
+2024-05-13 19:04:50 - Processo Auth Request Manager criado
+2024-05-13 19:04:50 - Criação da thread receiver
+2024-05-13 19:04:50 - Criação da thread sender
+2024-05-13 19:05:15 - Início do programa
+2024-05-13 19:05:15 - Processo System Manager criado
+2024-05-13 19:05:15 - Processo Monitor Engine criado
+2024-05-13 19:05:15 - Processo Auth Request Manager criado
+2024-05-13 19:05:15 - Criação da thread sender
+2024-05-13 19:05:15 - Criação da thread receiver
+2024-05-13 19:06:11 - Início do programa
+2024-05-13 19:06:11 - Processo System Manager criado
+2024-05-13 19:06:11 - Processo Monitor Engine criado
+2024-05-13 19:06:11 - Processo Auth Request Manager criado
+2024-05-13 19:06:11 - Criação da thread sender
+2024-05-13 19:06:11 - Criação da thread receiver
+2024-05-13 19:37:57 - Início do programa
+2024-05-13 19:37:57 - Processo System Manager criado
+2024-05-13 19:37:57 - Processo Monitor Engine criado
+2024-05-13 19:37:57 - Processo Auth Request Manager criado
+2024-05-13 19:37:57 - Criação da thread receiver
+2024-05-13 19:37:57 - Criação da thread sender
+2024-05-13 22:24:19 - Início do programa
+2024-05-13 22:24:19 - Processo System Manager criado
+2024-05-13 22:24:19 - Processo Monitor Engine criado
+2024-05-13 22:24:19 - Processo Auth Request Manager criado
+2024-05-13 22:24:19 - Criação da thread receiver
+2024-05-13 22:24:19 - Criação da thread sender
+2024-05-13 22:28:10 - Início do programa
+2024-05-13 22:28:10 - Processo System Manager criado
+2024-05-13 22:28:10 - Processo Monitor Engine criado
+2024-05-13 22:28:10 - Processo Auth Request Manager criado
+2024-05-13 22:28:10 - Criação da thread receiver
+2024-05-13 22:28:10 - Criação da thread sender
+2024-05-13 22:28:32 - Início do programa
+2024-05-13 22:28:32 - Processo System Manager criado
+2024-05-13 22:28:32 - Processo Monitor Engine criado
+2024-05-13 22:28:32 - Processo Auth Request Manager criado
+2024-05-13 22:28:32 - Criação da thread sender
+2024-05-13 22:28:32 - Criação da thread receiver
+2024-05-13 22:28:59 - Início do programa
+2024-05-13 22:28:59 - Processo System Manager criado
+2024-05-13 22:28:59 - Processo Monitor Engine criado
+2024-05-13 22:28:59 - Processo Auth Request Manager criado
+2024-05-13 22:28:59 - Criação da thread sender
+2024-05-13 22:28:59 - Criação da thread receiver
+2024-05-13 22:29:44 - Início do programa
+2024-05-13 22:29:44 - Processo System Manager criado
+2024-05-13 22:29:44 - Processo Monitor Engine criado
+2024-05-13 22:29:44 - Processo Auth Request Manager criado
+2024-05-13 22:29:44 - Criação da thread sender
+2024-05-13 22:29:44 - Criação da thread receiver
+2024-05-13 22:31:43 - Início do programa
+2024-05-13 22:31:43 - Processo System Manager criado
+2024-05-13 22:31:43 - Processo Monitor Engine criado
+2024-05-13 22:31:43 - Processo Auth Request Manager criado
+2024-05-13 22:31:43 - Criação da thread receiver
+2024-05-13 22:31:43 - Criação da thread sender
+2024-05-13 22:39:50 - Início do programa
+2024-05-13 22:39:50 - Processo System Manager criado
+2024-05-13 22:39:50 - Processo Monitor Engine criado
+2024-05-13 22:39:50 - Processo Auth Request Manager criado
+2024-05-13 22:39:50 - Criação da thread receiver
+2024-05-13 22:39:50 - Criação da thread sender
+2024-05-13 22:43:00 - Início do programa
+2024-05-13 22:43:00 - Processo System Manager criado
+2024-05-13 22:43:00 - Processo Monitor Engine criado
+2024-05-13 22:43:00 - Processo Auth Request Manager criado
+2024-05-13 22:43:00 - Criação da thread sender
+2024-05-13 22:43:00 - Criação da thread receiver
+2024-05-13 22:43:36 - Início do programa
+2024-05-13 22:43:36 - Processo System Manager criado
+2024-05-13 22:43:36 - Processo Monitor Engine criado
+2024-05-13 22:43:36 - Processo Auth Request Manager criado
+2024-05-13 22:43:36 - Criação da thread sender
+2024-05-13 22:43:36 - Criação da thread receiver
+2024-05-13 22:50:14 - Início do programa
+2024-05-13 22:50:14 - Processo System Manager criado
+2024-05-13 22:50:14 - Processo Monitor Engine criado
+2024-05-13 22:50:14 - Processo Auth Request Manager criado
+2024-05-13 22:50:14 - Criação da thread sender
+2024-05-13 22:50:14 - Criação da thread receiver
+2024-05-13 22:55:24 - Início do programa
+2024-05-13 22:55:24 - Processo System Manager criado
+2024-05-13 22:55:24 - Processo Monitor Engine criado
+2024-05-13 22:55:24 - Processo Auth Request Manager criado
+2024-05-13 22:55:24 - Criação da thread receiver
+2024-05-13 22:55:24 - Criação da thread sender
+2024-05-13 22:58:08 - Início do programa
+2024-05-13 22:58:08 - Processo System Manager criado
+2024-05-13 22:58:08 - Processo Monitor Engine criado
+2024-05-13 22:58:08 - Processo Auth Request Manager criado
+2024-05-13 22:58:08 - Criação da thread receiver
+2024-05-13 22:58:08 - Criação da thread sender
+2024-05-13 22:58:51 - Início do programa
+2024-05-13 22:58:51 - Processo System Manager criado
+2024-05-13 22:58:51 - Processo Monitor Engine criado
+2024-05-13 22:58:51 - Processo Auth Request Manager criado
+2024-05-13 22:58:51 - Criação da thread sender
+2024-05-13 22:58:51 - Criação da thread receiver
+2024-05-13 23:08:35 - Início do programa
+2024-05-13 23:08:35 - Processo System Manager criado
+2024-05-13 23:08:35 - Processo Monitor Engine criado
+2024-05-13 23:08:35 - Processo Auth Request Manager criado
+2024-05-13 23:08:35 - Criação da thread sender
+2024-05-13 23:08:35 - Criação da thread receiver
+2024-05-13 23:12:49 - Início do programa
+2024-05-13 23:12:49 - Processo System Manager criado
+2024-05-13 23:12:49 - Processo Monitor Engine criado
+2024-05-13 23:12:49 - Processo Auth Request Manager criado
+2024-05-13 23:12:49 - Criação da thread sender
+2024-05-13 23:12:49 - Criação da thread receiver
+2024-05-13 23:24:58 - Início do programa
+2024-05-13 23:24:58 - Processo System Manager criado
+2024-05-13 23:24:58 - Processo Monitor Engine criado
+2024-05-13 23:24:58 - Processo Auth Request Manager criado
+2024-05-13 23:24:58 - Criação da thread sender
+2024-05-13 23:24:58 - Criação da thread receiver
+2024-05-13 23:26:56 - Início do programa
+2024-05-13 23:26:56 - Processo System Manager criado
+2024-05-13 23:26:56 - Processo Monitor Engine criado
+2024-05-13 23:26:56 - Processo Auth Request Manager criado
+2024-05-13 23:26:56 - Criação da thread sender
+2024-05-13 23:26:56 - Criação da thread receiver
+2024-05-13 23:30:51 - Início do programa
+2024-05-13 23:30:51 - Processo System Manager criado
+2024-05-13 23:30:51 - Processo Monitor Engine criado
+2024-05-13 23:30:51 - Processo Auth Request Manager criado
+2024-05-13 23:30:51 - Criação da thread sender
+2024-05-13 23:30:51 - Criação da thread receiver
+2024-05-14 00:02:56 - Início do programa
+2024-05-14 00:02:56 - Processo System Manager criado
+2024-05-14 00:02:56 - Processo Monitor Engine criado
+2024-05-14 00:02:56 - Processo Auth Request Manager criado
+2024-05-14 00:02:56 - Criação da thread receiver
+2024-05-14 00:02:56 - Criação da thread sender
+2024-05-14 00:03:07 - Plafond insuficiente
+2024-05-14 00:03:08 - Plafond insuficiente
+2024-05-14 00:03:08 - Plafond insuficiente
+2024-05-14 00:03:09 - Plafond insuficiente
+2024-05-14 00:03:10 - Plafond insuficiente
+2024-05-14 00:03:11 - Plafond insuficiente
+2024-05-14 00:03:28 - Início do programa
+2024-05-14 00:03:28 - Processo System Manager criado
+2024-05-14 00:03:28 - Processo Monitor Engine criado
+2024-05-14 00:03:28 - Processo Auth Request Manager criado
+2024-05-14 00:03:28 - Criação da thread receiver
+2024-05-14 00:03:28 - Criação da thread sender
+2024-05-14 00:03:35 - Plafond insuficiente
+2024-05-14 00:03:36 - Plafond insuficiente
+2024-05-14 00:03:36 - Plafond insuficiente
+2024-05-14 00:03:37 - Plafond insuficiente
+2024-05-14 00:03:38 - Plafond insuficiente
+2024-05-14 00:03:39 - Plafond insuficiente
+2024-05-14 00:03:40 - Plafond insuficiente
+2024-05-14 00:03:40 - Plafond insuficiente
+2024-05-14 00:03:41 - Plafond insuficiente
+2024-05-14 00:03:41 - Plafond insuficiente
+2024-05-14 00:03:42 - Plafond insuficiente
+2024-05-14 00:03:43 - Plafond insuficiente
+2024-05-14 00:03:44 - Plafond insuficiente
+2024-05-14 00:03:45 - Plafond insuficiente
+2024-05-14 00:03:46 - Plafond insuficiente
+2024-05-14 00:03:46 - Plafond insuficiente
+2024-05-14 00:03:47 - Plafond insuficiente
+2024-05-14 00:03:48 - Plafond insuficiente
+2024-05-14 00:03:49 - Plafond insuficiente
+2024-05-14 00:03:50 - Plafond insuficiente
+2024-05-14 00:07:20 - Início do programa
+2024-05-14 00:07:20 - Processo System Manager criado
+2024-05-14 00:07:20 - Processo Monitor Engine criado
+2024-05-14 00:07:20 - Processo Auth Request Manager criado
+2024-05-14 00:07:20 - Criação da thread sender
+2024-05-14 00:07:20 - Criação da thread receiver
+2024-05-14 00:07:28 - Plafond insuficiente
+2024-05-14 00:07:29 - Plafond insuficiente
+2024-05-14 00:07:29 - Plafond insuficiente
+2024-05-14 00:07:30 - Plafond insuficiente
+2024-05-14 00:07:30 - Plafond insuficiente
+2024-05-14 00:07:31 - Plafond insuficiente
+2024-05-14 00:07:31 - Plafond insuficiente
+2024-05-14 00:07:31 - Plafond insuficiente
+2024-05-14 00:08:31 - Início do programa
+2024-05-14 00:08:31 - Processo System Manager criado
+2024-05-14 00:08:31 - Processo Monitor Engine criado
+2024-05-14 00:08:31 - Processo Auth Request Manager criado
+2024-05-14 00:08:31 - Criação da thread sender
+2024-05-14 00:08:31 - Criação da thread receiver
+2024-05-14 00:09:03 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:09:03 - LOG: Semaphor for LOG created
+
+2024-05-14 00:09:03 - Início do programa
+2024-05-14 00:09:03 - Processo System Manager criado
+2024-05-14 00:09:03 - Processo Monitor Engine criado
+2024-05-14 00:09:03 - Processo Auth Request Manager criado
+2024-05-14 00:09:03 - Criação da thread sender
+2024-05-14 00:09:03 - Criação da thread receiver
+2024-05-14 00:09:42 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:09:42 - LOG: Semaphor for LOG created
+
+2024-05-14 00:09:42 - Início do programa
+2024-05-14 00:09:42 - Processo System Manager criado
+2024-05-14 00:09:42 - Processo Monitor Engine criado
+2024-05-14 00:09:42 - Processo Auth Request Manager criado
+2024-05-14 00:09:42 - Criação da thread sender
+2024-05-14 00:09:42 - Criação da thread receiver
+2024-05-14 00:13:13 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:13:13 - LOG: Semaphor for LOG created
+
+2024-05-14 00:13:13 - Início do programa
+2024-05-14 00:13:13 - Processo System Manager criado
+2024-05-14 00:13:13 - Processo Monitor Engine criado
+2024-05-14 00:13:13 - Processo Auth Request Manager criado
+2024-05-14 00:13:13 - Criação da thread receiver
+2024-05-14 00:13:13 - Criação da thread sender
+2024-05-14 00:13:51 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:13:51 - LOG: Semaphor for LOG created
+
+2024-05-14 00:13:51 - Início do programa
+2024-05-14 00:13:51 - Processo System Manager criado
+2024-05-14 00:13:51 - Processo Monitor Engine criado
+2024-05-14 00:13:51 - Processo Auth Request Manager criado
+2024-05-14 00:13:51 - Criação da thread sender
+2024-05-14 00:13:51 - Criação da thread receiver
+2024-05-14 00:13:55 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:13:55 - LOG: Semaphor for LOG created
+
+2024-05-14 00:13:55 - Início do programa
+2024-05-14 00:13:55 - Processo System Manager criado
+2024-05-14 00:13:55 - Processo Monitor Engine criado
+2024-05-14 00:13:55 - Processo Auth Request Manager criado
+2024-05-14 00:13:55 - Criação da thread receiver
+2024-05-14 00:13:55 - Criação da thread sender
+2024-05-14 00:14:22 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:14:22 - LOG: Semaphor for LOG created
+
+2024-05-14 00:14:22 - Início do programa
+2024-05-14 00:14:22 - Processo System Manager criado
+2024-05-14 00:14:22 - Processo Monitor Engine criado
+2024-05-14 00:14:22 - Processo Auth Request Manager criado
+2024-05-14 00:14:22 - Criação da thread sender
+2024-05-14 00:14:22 - Criação da thread receiver
+2024-05-14 00:16:26 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:16:26 - LOG: Semaphor for LOG created
+
+2024-05-14 00:16:26 - Início do programa
+2024-05-14 00:16:26 - Processo System Manager criado
+2024-05-14 00:16:26 - Processo Monitor Engine criado
+2024-05-14 00:16:26 - Processo Auth Request Manager criado
+2024-05-14 00:16:26 - Criação da thread sender
+2024-05-14 00:16:26 - Criação da thread receiver
+2024-05-14 00:18:44 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:18:44 - LOG: Semaphor for LOG created
+
+2024-05-14 00:18:44 - Início do programa
+2024-05-14 00:18:44 - Processo System Manager criado
+2024-05-14 00:18:44 - Processo Monitor Engine criado
+2024-05-14 00:18:44 - Processo Auth Request Manager criado
+2024-05-14 00:18:44 - Criação da thread sender
+2024-05-14 00:18:44 - Criação da thread receiver
+2024-05-14 00:20:58 - LOG: Semaphoro for SHM created
+
+2024-05-14 00:20:58 - LOG: Semaphor for LOG created
+
+2024-05-14 00:20:58 - Início do programa
+2024-05-14 00:20:58 - Processo System Manager criado
+2024-05-14 00:20:58 - Processo Monitor Engine criado
+2024-05-14 00:20:58 - Processo Auth Request Manager criado
+2024-05-14 00:20:58 - Criação da thread sender
+2024-05-14 00:20:58 - Criação da thread receiver
+2024-05-14 01:00:17 - Início do programa
+2024-05-14 01:00:17 - Processo System Manager criado
+2024-05-14 01:00:17 - Processo Monitor Engine criado
+2024-05-14 01:00:17 - Processo Auth Request Manager criado
+2024-05-14 01:00:17 - Criação da thread sender
+2024-05-14 01:00:17 - Criação da thread receiver
+2024-05-14 01:02:00 - Início do programa
+2024-05-14 01:02:00 - Processo System Manager criado
+2024-05-14 01:02:00 - Processo Monitor Engine criado
+2024-05-14 01:02:00 - Processo Auth Request Manager criado
+2024-05-14 01:02:00 - Criação da thread sender
+2024-05-14 01:02:00 - Criação da thread receiver
+2024-05-14 01:02:11 - Plafond insuficiente
+2024-05-14 01:02:11 - Plafond insuficiente
+2024-05-14 01:02:12 - Plafond insuficiente
+2024-05-14 01:02:13 - Plafond insuficiente
+2024-05-14 01:02:14 - Plafond insuficiente
+2024-05-14 01:02:15 - Plafond insuficiente
+2024-05-14 01:02:15 - Plafond insuficiente
+2024-05-14 01:02:16 - Plafond insuficiente
+2024-05-14 01:02:16 - Plafond insuficiente
+2024-05-14 01:02:17 - Plafond insuficiente
+2024-05-14 01:02:18 - Plafond insuficiente
+2024-05-14 01:02:19 - Plafond insuficiente
+2024-05-14 01:02:20 - Plafond insuficiente
+2024-05-14 01:02:21 - Plafond insuficiente
+2024-05-14 01:02:21 - Plafond insuficiente
+2024-05-14 01:02:22 - Plafond insuficiente
+2024-05-14 01:02:23 - Plafond insuficiente
+2024-05-14 01:02:24 - Plafond insuficiente
+2024-05-14 01:02:25 - Plafond insuficiente
+2024-05-14 01:05:08 - Início do programa
+2024-05-14 01:05:08 - Processo System Manager criado
+2024-05-14 01:05:08 - Processo Monitor Engine criado
+2024-05-14 01:05:08 - Processo Auth Request Manager criado
+2024-05-14 01:05:08 - Criação da thread sender
+2024-05-14 01:05:08 - Criação da thread receiver
+2024-05-14 01:09:55 - Início do programa
+2024-05-14 01:09:55 - Processo System Manager criado
+2024-05-14 01:09:55 - Processo Monitor Engine criado
+2024-05-14 01:09:55 - Processo Auth Request Manager criado
+2024-05-14 01:09:55 - Criação da thread sender
+2024-05-14 01:09:55 - Criação da thread receiver
+2024-05-14 01:10:55 - Início do programa
+2024-05-14 01:10:55 - Processo System Manager criado
+2024-05-14 01:10:55 - Processo Monitor Engine criado
+2024-05-14 01:10:55 - Processo Auth Request Manager criado
+2024-05-14 01:10:55 - Criação da thread sender
+2024-05-14 01:10:55 - Criação da thread receiver
+2024-05-14 01:11:57 - Início do programa
+2024-05-14 01:11:57 - Processo System Manager criado
+2024-05-14 01:11:57 - Processo Monitor Engine criado
+2024-05-14 01:11:57 - Processo Auth Request Manager criado
+2024-05-14 01:11:57 - Criação da thread sender
+2024-05-14 01:11:57 - Criação da thread receiver
+2024-05-14 01:15:55 - Início do programa
+2024-05-14 01:15:55 - Processo System Manager criado
+2024-05-14 01:15:55 - Processo Monitor Engine criado
+2024-05-14 01:15:55 - Processo Auth Request Manager criado
+2024-05-14 01:15:55 - Criação da thread sender
+2024-05-14 01:15:55 - Criação da thread receiver
+2024-05-14 01:19:08 - Início do programa
+2024-05-14 01:19:08 - Processo System Manager criado
+2024-05-14 01:19:08 - Processo Monitor Engine criado
+2024-05-14 01:19:08 - Processo Auth Request Manager criado
+2024-05-14 01:19:08 - Criação da thread sender
+2024-05-14 01:19:08 - Criação da thread receiver
+2024-05-14 01:19:13 - Estatísticas resetadas
+2024-05-14 01:19:16 - Estatísticas enviadas
+2024-05-14 01:30:52 - Início do programa
+2024-05-14 01:30:52 - Processo System Manager criado
+2024-05-14 01:30:52 - Processo Monitor Engine criado
+2024-05-14 01:30:52 - Processo Auth Request Manager criado
+2024-05-14 01:30:52 - Criação da thread sender
+2024-05-14 01:30:52 - Criação da thread receiver
+2024-05-14 01:30:59 - Estatísticas resetadas
+2024-05-14 01:31:02 - Estatísticas enviadas
+2024-05-14 01:31:24 - Fim do programa
+2024-05-14 01:39:06 - Início do programa
+2024-05-14 01:39:06 - Processo System Manager criado
+2024-05-14 01:39:06 - Processo Monitor Engine criado
+2024-05-14 01:39:06 - Processo Auth Request Manager criado
+2024-05-14 01:39:06 - Criação da thread sender
+2024-05-14 01:39:06 - Criação da thread receiver
+2024-05-14 01:44:40 - Início do programa
+2024-05-14 01:44:40 - Processo System Manager criado
+2024-05-14 01:44:40 - Processo Monitor Engine criado
+2024-05-14 01:44:40 - Processo Auth Request Manager criado
+2024-05-14 01:44:40 - Criação da thread sender
+2024-05-14 01:44:40 - Criação da thread receiver
+2024-05-14 01:44:46 - Fim do programa
+2024-05-14 01:47:50 - Início do programa
+2024-05-14 01:47:50 - Processo System Manager criado
+2024-05-14 01:47:50 - Processo Monitor Engine criado
+2024-05-14 01:47:50 - Processo Auth Request Manager criado
+2024-05-14 01:47:50 - Criação da thread sender
+2024-05-14 01:47:50 - Criação da thread receiver
+2024-05-14 01:49:47 - Início do programa
+2024-05-14 01:49:47 - Processo System Manager criado
+2024-05-14 01:49:47 - Processo Monitor Engine criado
+2024-05-14 01:49:47 - Processo Auth Request Manager criado
+2024-05-14 01:49:47 - Criação da thread sender
+2024-05-14 01:49:47 - Criação da thread receiver
+2024-05-14 01:49:51 - Fim do programa
+2024-05-14 01:52:56 - Início do programa
+2024-05-14 01:52:56 - Processo System Manager criado
+2024-05-14 01:52:56 - Processo Monitor Engine criado
+2024-05-14 01:52:56 - Processo Auth Request Manager criado
+2024-05-14 01:52:56 - Criação da thread sender
+2024-05-14 01:52:56 - Criação da thread receiver
+2024-05-14 01:56:15 - Início do programa
+2024-05-14 01:56:15 - Processo System Manager criado
+2024-05-14 01:56:15 - Processo Monitor Engine criado
+2024-05-14 01:56:15 - Processo Auth Request Manager criado
+2024-05-14 01:56:15 - Criação da thread sender
+2024-05-14 01:56:15 - Criação da thread receiver
+2024-05-14 01:56:18 - Fim do programa
+2024-05-14 01:58:02 - Início do programa
+2024-05-14 01:58:02 - Processo System Manager criado
+2024-05-14 01:58:02 - Processo Monitor Engine criado
+2024-05-14 01:58:02 - Processo Auth Request Manager criado
+2024-05-14 01:58:02 - Criação da thread sender
+2024-05-14 01:58:02 - Criação da thread receiver
+2024-05-14 01:59:48 - Início do programa
+2024-05-14 01:59:48 - Processo System Manager criado
+2024-05-14 01:59:48 - Processo Monitor Engine criado
+2024-05-14 01:59:48 - Processo Auth Request Manager criado
+2024-05-14 01:59:48 - Criação da thread sender
+2024-05-14 01:59:48 - Criação da thread receiver
+2024-05-14 01:59:52 - Fim do programa
+2024-05-14 02:00:05 - Início do programa
+2024-05-14 02:00:05 - Processo System Manager criado
+2024-05-14 02:00:05 - Processo Monitor Engine criado
+2024-05-14 02:00:05 - Processo Auth Request Manager criado
+2024-05-14 02:00:05 - Criação da thread sender
+2024-05-14 02:00:05 - Criação da thread receiver
+2024-05-14 02:00:23 - Fim do programa
+2024-05-14 02:01:18 - Início do programa
+2024-05-14 02:01:18 - Processo System Manager criado
+2024-05-14 02:01:18 - Processo Monitor Engine criado
+2024-05-14 02:01:18 - Processo Auth Request Manager criado
+2024-05-14 02:01:18 - Criação da thread receiver
+2024-05-14 02:01:18 - Criação da thread sender
+2024-05-14 02:05:47 - Início do programa
+2024-05-14 02:05:47 - Processo System Manager criado
+2024-05-14 02:05:47 - Processo Monitor Engine criado
+2024-05-14 02:05:47 - Processo Auth Request Manager criado
+2024-05-14 02:05:47 - Criação da thread sender
+2024-05-14 02:05:47 - Criação da thread receiver
+2024-05-14 02:07:06 - Início do programa
+2024-05-14 02:07:06 - Processo System Manager criado
+2024-05-14 02:07:06 - Processo Monitor Engine criado
+2024-05-14 02:07:06 - Processo Auth Request Manager criado
+2024-05-14 02:07:06 - Criação da thread sender
+2024-05-14 02:07:06 - Criação da thread receiver
+2024-05-14 02:07:09 - Fim do programa
+2024-05-14 02:08:33 - Início do programa
+2024-05-14 02:08:33 - Processo System Manager criado
+2024-05-14 02:08:33 - Processo Monitor Engine criado
+2024-05-14 02:08:33 - Processo Auth Request Manager criado
+2024-05-14 02:08:33 - Criação da thread sender
+2024-05-14 02:08:33 - Criação da thread receiver
+2024-05-14 02:12:02 - Início do programa
+2024-05-14 02:12:02 - Processo System Manager criado
+2024-05-14 02:12:02 - Processo Monitor Engine criado
+2024-05-14 02:12:02 - Processo Auth Request Manager criado
+2024-05-14 02:12:02 - Criação da thread sender
+2024-05-14 02:12:02 - Criação da thread receiver
+2024-05-14 02:12:06 - Fim do programa
+2024-05-14 02:15:06 - Início do programa
+2024-05-14 02:15:06 - Processo System Manager criado
+2024-05-14 02:15:06 - Processo Monitor Engine criado
+2024-05-14 02:15:06 - Processo Auth Request Manager criado
+2024-05-14 02:15:06 - Criação da thread receiver
+2024-05-14 02:15:06 - Criação da thread sender
+2024-05-14 02:18:12 - Início do programa
+2024-05-14 02:18:12 - Processo System Manager criado
+2024-05-14 02:18:12 - Processo Auth Request Manager criado
+2024-05-14 02:18:12 - Processo Monitor Engine criado
+2024-05-14 02:18:12 - Criação da thread receiver
+2024-05-14 02:18:12 - Criação da thread sender
+2024-05-14 02:18:12 - Criação da thread receiver
+2024-05-14 02:18:22 - Fim do programa
+2024-05-14 02:19:58 - Início do programa
+2024-05-14 02:19:58 - Processo System Manager criado
+2024-05-14 02:19:58 - Processo Monitor Engine criado
+2024-05-14 02:19:58 - Processo Auth Request Manager criado
+2024-05-14 02:19:58 - Criação da thread sender
+2024-05-14 02:19:58 - Criação da thread receiver
+2024-05-14 02:20:05 - Fim do programa
+2024-05-14 02:20:27 - Início do programa
+2024-05-14 02:20:27 - Processo System Manager criado
+2024-05-14 02:20:27 - Processo Auth Request Manager criado
+2024-05-14 02:20:27 - Processo Monitor Engine criado
+2024-05-14 02:20:27 - Criação da thread receiver
+2024-05-14 02:20:28 - Criação da thread sender
+2024-05-14 02:20:38 - Fim do programa
+2024-05-14 02:21:19 - Início do programa
+2024-05-14 02:21:20 - Processo System Manager criado
+2024-05-14 02:21:20 - Processo Auth Request Manager criado
+2024-05-14 02:21:20 - Processo Monitor Engine criado
+2024-05-14 02:21:20 - Criação da thread receiver
+2024-05-14 02:21:20 - Criação da thread sender
+2024-05-14 02:21:20 - Criação da thread sender
+2024-05-14 02:21:27 - Fim do programa
+2024-05-14 02:28:47 - Início do programa
+2024-05-14 02:28:47 - Processo System Manager criado
+2024-05-14 02:28:47 - Processo Monitor Engine criado
+2024-05-14 02:28:47 - Processo Auth Request Manager criado
+2024-05-14 02:28:47 - Criação da thread sender
+2024-05-14 02:28:47 - Criação da thread receiver
+2024-05-14 02:29:07 - Plafond insuficiente
+2024-05-14 02:29:07 - Plafond insuficiente
+2024-05-14 02:29:08 - Plafond insuficiente
+2024-05-14 02:29:09 - Plafond insuficiente
+2024-05-14 02:29:10 - Plafond insuficiente
+2024-05-14 02:29:11 - Plafond insuficiente
+2024-05-14 02:29:11 - Plafond insuficiente
+2024-05-14 02:29:12 - Plafond insuficiente
+2024-05-14 02:29:12 - Plafond insuficiente
+2024-05-14 02:29:13 - Plafond insuficiente
+2024-05-14 02:29:14 - Plafond insuficiente
+2024-05-14 02:29:15 - Plafond insuficiente
+2024-05-14 02:29:16 - Plafond insuficiente
+2024-05-14 02:29:17 - Plafond insuficiente
+2024-05-14 02:29:17 - Plafond insuficiente
+2024-05-14 02:29:18 - Plafond insuficiente
+2024-05-14 02:29:19 - Plafond insuficiente
+2024-05-14 02:29:20 - Plafond insuficiente
+2024-05-14 02:29:21 - Plafond insuficiente
+2024-05-14 02:35:41 - Início do programa
+2024-05-14 02:35:41 - Processo System Manager criado
+2024-05-14 02:35:41 - Processo Monitor Engine criado
+2024-05-14 02:35:41 - Processo Auth Request Manager criado
+2024-05-14 02:35:41 - Criação da thread sender
+2024-05-14 02:35:41 - Criação da thread receiver
+2024-05-14 02:35:45 - Fim do programa
+2024-05-14 02:39:25 - Início do programa
+2024-05-14 02:39:25 - Processo System Manager criado
+2024-05-14 02:39:25 - Processo Monitor Engine criado
+2024-05-14 02:39:25 - Processo Auth Request Manager criado
+2024-05-14 02:39:25 - Criação da thread sender
+2024-05-14 02:39:25 - Criação da thread receiver
+2024-05-14 02:39:46 - Plafond insuficiente
+2024-05-14 02:39:46 - Plafond insuficiente
+2024-05-14 02:39:47 - Plafond insuficiente
+2024-05-14 02:39:48 - Plafond insuficiente
+2024-05-14 02:39:49 - Plafond insuficiente
+2024-05-14 02:39:50 - Plafond insuficiente
+2024-05-14 02:39:50 - Plafond insuficiente
+2024-05-14 02:39:51 - Plafond insuficiente
+2024-05-14 02:39:51 - Plafond insuficiente
+2024-05-14 02:39:52 - Plafond insuficiente
+2024-05-14 02:39:53 - Plafond insuficiente
+2024-05-14 02:39:54 - Plafond insuficiente
+2024-05-14 02:39:55 - Plafond insuficiente
+2024-05-14 02:39:56 - Plafond insuficiente
+2024-05-14 02:39:56 - Plafond insuficiente
+2024-05-14 02:39:57 - Plafond insuficiente
+2024-05-14 02:39:58 - Plafond insuficiente
+2024-05-14 02:39:59 - Plafond insuficiente
+2024-05-14 02:40:00 - Plafond insuficiente
+2024-05-14 02:46:48 - Início do programa
+2024-05-14 02:46:48 - Processo System Manager criado
+2024-05-14 02:46:48 - Processo Monitor Engine criado
+2024-05-14 02:46:48 - Processo Auth Request Manager criado
+2024-05-14 02:46:48 - Criação da thread sender
+2024-05-14 02:46:48 - Criação da thread receiver
+2024-05-14 02:47:08 - Plafond insuficiente
+2024-05-14 02:47:09 - Plafond insuficiente
+2024-05-14 02:47:09 - Plafond insuficiente
+2024-05-14 02:47:10 - Plafond insuficiente
+2024-05-14 02:47:11 - Plafond insuficiente
+2024-05-14 02:47:12 - Plafond insuficiente
+2024-05-14 02:47:13 - Plafond insuficiente
+2024-05-14 02:47:13 - Plafond insuficiente
+2024-05-14 02:47:14 - Plafond insuficiente
+2024-05-14 02:47:14 - Plafond insuficiente
+2024-05-14 02:47:15 - Plafond insuficiente
+2024-05-14 02:47:16 - Plafond insuficiente
+2024-05-14 02:47:17 - Plafond insuficiente
+2024-05-14 02:47:18 - Plafond insuficiente
+2024-05-14 02:47:19 - Plafond insuficiente
+2024-05-14 02:47:19 - Plafond insuficiente
+2024-05-14 02:47:20 - Plafond insuficiente
+2024-05-14 02:47:21 - Plafond insuficiente
+2024-05-14 02:47:22 - Plafond insuficiente
+2024-05-14 02:47:23 - Plafond insuficiente
+2024-05-14 02:48:10 - Início do programa
+2024-05-14 02:48:10 - Processo System Manager criado
+2024-05-14 02:48:10 - Processo Monitor Engine criado
+2024-05-14 02:48:10 - Processo Auth Request Manager criado
+2024-05-14 02:48:10 - Criação da thread sender
+2024-05-14 02:48:10 - Criação da thread receiver
+2024-05-14 02:48:14 - Fim do programa
+2024-05-14 02:51:01 - Início do programa
+2024-05-14 02:51:01 - Processo System Manager criado
+2024-05-14 02:51:01 - Processo Monitor Engine criado
+2024-05-14 02:51:01 - Processo Auth Request Manager criado
+2024-05-14 02:51:01 - Criação da thread sender
+2024-05-14 02:51:01 - Criação da thread receiver
+2024-05-14 02:51:45 - Início do programa
+2024-05-14 02:51:45 - Processo System Manager criado
+2024-05-14 02:51:45 - Processo Monitor Engine criado
+2024-05-14 02:51:46 - Processo Auth Request Manager criado
+2024-05-14 02:51:46 - Criação da thread sender
+2024-05-14 02:51:46 - Criação da thread receiver
+2024-05-14 02:51:48 - Fim do programa
+2024-05-14 02:53:03 - Início do programa
+2024-05-14 02:53:03 - Processo System Manager criado
+2024-05-14 02:53:03 - Processo Monitor Engine criado
+2024-05-14 02:53:03 - Processo Auth Request Manager criado
+2024-05-14 02:53:03 - Criação da thread sender
+2024-05-14 02:53:03 - Criação da thread receiver
+2024-05-14 02:53:26 - Plafond insuficiente
+2024-05-14 02:53:27 - Plafond insuficiente
+2024-05-14 02:53:27 - Plafond insuficiente
+2024-05-14 02:53:28 - Plafond insuficiente
+2024-05-14 02:53:29 - Plafond insuficiente
+2024-05-14 02:53:30 - Plafond insuficiente
+2024-05-14 02:53:31 - Plafond insuficiente
+2024-05-14 02:53:31 - Plafond insuficiente
+2024-05-14 02:53:32 - Plafond insuficiente
+2024-05-14 02:53:32 - Plafond insuficiente
+2024-05-14 02:53:33 - Plafond insuficiente
+2024-05-14 02:53:34 - Plafond insuficiente
+2024-05-14 02:53:35 - Plafond insuficiente
+2024-05-14 02:53:36 - Plafond insuficiente
+2024-05-14 02:53:37 - Plafond insuficiente
+2024-05-14 02:53:37 - Plafond insuficiente
+2024-05-14 02:53:38 - Plafond insuficiente
+2024-05-14 02:53:39 - Plafond insuficiente
+2024-05-14 02:53:40 - Plafond insuficiente
+2024-05-14 02:53:41 - Plafond insuficiente
+2024-05-14 02:54:49 - Início do programa
+2024-05-14 02:54:49 - Processo System Manager criado
+2024-05-14 02:54:49 - Processo Monitor Engine criado
+2024-05-14 02:54:49 - Processo Auth Request Manager criado
+2024-05-14 02:54:49 - Criação da thread sender
+2024-05-14 02:54:49 - Criação da thread receiver
+2024-05-14 02:54:53 - Fim do programa
+2024-05-14 03:01:34 - Início do programa
+2024-05-14 03:01:34 - Processo System Manager criado
+2024-05-14 03:01:34 - Processo Monitor Engine criado
+2024-05-14 03:01:34 - Processo Auth Request Manager criado
+2024-05-14 03:01:34 - Criação da thread sender
+2024-05-14 03:01:34 - Criação da thread receiver
+2024-05-14 03:01:41 - Plafond insuficiente
+2024-05-14 03:01:42 - Plafond insuficiente
+2024-05-14 03:01:42 - Plafond insuficiente
+2024-05-14 03:01:43 - Plafond insuficiente
+2024-05-14 03:01:44 - Plafond insuficiente
+2024-05-14 03:01:45 - Plafond insuficiente
+2024-05-14 03:01:46 - Plafond insuficiente
+2024-05-14 03:01:46 - Plafond insuficiente
+2024-05-14 03:01:47 - Plafond insuficiente
+2024-05-14 03:01:47 - Plafond insuficiente
+2024-05-14 03:01:48 - Plafond insuficiente
+2024-05-14 03:01:49 - Plafond insuficiente
+2024-05-14 03:01:50 - Plafond insuficiente
+2024-05-14 03:01:51 - Plafond insuficiente
+2024-05-14 03:01:52 - Plafond insuficiente
+2024-05-14 03:01:52 - Plafond insuficiente
+2024-05-14 03:01:53 - Plafond insuficiente
+2024-05-14 03:01:54 - Plafond insuficiente
+2024-05-14 03:01:55 - Plafond insuficiente
+2024-05-14 03:01:56 - Plafond insuficiente
+2024-05-14 03:02:20 - Plafond insuficiente
+2024-05-14 03:02:21 - Plafond insuficiente
+2024-05-14 03:02:21 - Plafond insuficiente
+2024-05-14 03:02:22 - Plafond insuficiente
+2024-05-14 03:02:23 - Plafond insuficiente
+2024-05-14 03:02:24 - Plafond insuficiente
+2024-05-14 03:02:25 - Plafond insuficiente
+2024-05-14 03:02:25 - Plafond insuficiente
+2024-05-14 03:02:26 - Plafond insuficiente
+2024-05-14 03:02:26 - Plafond insuficiente
+2024-05-14 03:02:27 - Plafond insuficiente
+2024-05-14 03:02:28 - Plafond insuficiente
+2024-05-14 03:02:29 - Plafond insuficiente
+2024-05-14 03:02:30 - Plafond insuficiente
+2024-05-14 03:02:31 - Plafond insuficiente
+2024-05-14 03:02:31 - Plafond insuficiente
+2024-05-14 03:02:32 - Plafond insuficiente
+2024-05-14 03:02:33 - Plafond insuficiente
+2024-05-14 03:02:34 - Plafond insuficiente
+2024-05-14 03:02:35 - Plafond insuficiente
+2024-05-14 03:03:14 - Início do programa
+2024-05-14 03:03:14 - Processo System Manager criado
+2024-05-14 03:03:14 - Processo Monitor Engine criado
+2024-05-14 03:03:14 - Processo Auth Request Manager criado
+2024-05-14 03:03:14 - Criação da thread receiver
+2024-05-14 03:03:14 - Criação da thread sender
+2024-05-14 03:03:17 - Fim do programa
+2024-05-14 03:07:22 - Início do programa
+2024-05-14 03:07:22 - Processo System Manager criado
+2024-05-14 03:07:22 - Processo Monitor Engine criado
+2024-05-14 03:07:22 - Processo Auth Request Manager criado
+2024-05-14 03:07:22 - Criação da thread sender
+2024-05-14 03:07:22 - Criação da thread receiver
+2024-05-14 03:07:55 - Plafond insuficiente
+2024-05-14 03:07:56 - Plafond insuficiente
+2024-05-14 03:07:57 - Plafond insuficiente
+2024-05-14 03:07:58 - Plafond insuficiente
+2024-05-14 03:07:59 - Plafond insuficiente
+2024-05-14 03:08:00 - Plafond insuficiente
+2024-05-14 03:08:00 - Plafond insuficiente
+2024-05-14 03:08:01 - Plafond insuficiente
+2024-05-14 03:08:01 - Plafond insuficiente
+2024-05-14 03:08:02 - Plafond insuficiente
+2024-05-14 03:08:03 - Plafond insuficiente
+2024-05-14 03:08:04 - Plafond insuficiente
+2024-05-14 03:08:05 - Plafond insuficiente
+2024-05-14 03:08:06 - Plafond insuficiente
+2024-05-14 03:08:06 - Plafond insuficiente
+2024-05-14 03:08:07 - Plafond insuficiente
+2024-05-14 03:08:08 - Plafond insuficiente
+2024-05-14 03:08:09 - Plafond insuficiente
+2024-05-14 03:08:10 - Plafond insuficiente
+2024-05-14 03:08:39 - Plafond insuficiente
+2024-05-14 03:08:40 - Plafond insuficiente
+2024-05-14 03:08:40 - Plafond insuficiente
+2024-05-14 03:08:41 - Plafond insuficiente
+2024-05-14 03:08:42 - Plafond insuficiente
+2024-05-14 03:08:43 - Plafond insuficiente
+2024-05-14 03:08:44 - Plafond insuficiente
+2024-05-14 03:08:44 - Plafond insuficiente
+2024-05-14 03:08:45 - Plafond insuficiente
+2024-05-14 03:08:45 - Plafond insuficiente
+2024-05-14 03:08:46 - Plafond insuficiente
+2024-05-14 03:08:47 - Plafond insuficiente
+2024-05-14 03:08:48 - Plafond insuficiente
+2024-05-14 03:08:49 - Plafond insuficiente
+2024-05-14 03:08:50 - Plafond insuficiente
+2024-05-14 03:08:50 - Plafond insuficiente
+2024-05-14 03:08:51 - Plafond insuficiente
+2024-05-14 03:08:52 - Plafond insuficiente
+2024-05-14 03:08:53 - Plafond insuficiente
+2024-05-14 03:08:54 - Plafond insuficiente
+2024-05-14 03:09:22 - Plafond insuficiente
+2024-05-14 03:09:23 - Plafond insuficiente
+2024-05-14 03:09:23 - Plafond insuficiente
+2024-05-14 03:09:24 - Plafond insuficiente
+2024-05-14 03:09:25 - Plafond insuficiente
+2024-05-14 03:09:26 - Plafond insuficiente
+2024-05-14 03:09:27 - Plafond insuficiente
+2024-05-14 03:09:27 - Plafond insuficiente
+2024-05-14 03:09:28 - Plafond insuficiente
+2024-05-14 03:09:28 - Plafond insuficiente
+2024-05-14 03:09:29 - Plafond insuficiente
+2024-05-14 03:09:30 - Plafond insuficiente
+2024-05-14 03:09:31 - Plafond insuficiente
+2024-05-14 03:09:32 - Plafond insuficiente
+2024-05-14 03:09:33 - Plafond insuficiente
+2024-05-14 03:09:33 - Plafond insuficiente
+2024-05-14 03:09:34 - Plafond insuficiente
+2024-05-14 03:09:35 - Plafond insuficiente
+2024-05-14 03:09:36 - Plafond insuficiente
+2024-05-14 03:09:37 - Plafond insuficiente
+2024-05-14 03:11:39 - Início do programa
+2024-05-14 03:11:39 - Processo System Manager criado
+2024-05-14 03:11:39 - Processo Monitor Engine criado
+2024-05-14 03:11:39 - Processo Auth Request Manager criado
+2024-05-14 03:11:39 - Criação da thread receiver
+2024-05-14 03:11:39 - Criação da thread sender
+2024-05-14 03:11:42 - Fim do programa
+2024-05-14 03:15:07 - Início do programa
+2024-05-14 03:15:07 - Processo System Manager criado
+2024-05-14 03:15:07 - Processo Monitor Engine criado
+2024-05-14 03:15:07 - Processo Auth Request Manager criado
+2024-05-14 03:15:07 - Criação da thread sender
+2024-05-14 03:15:07 - Criação da thread receiver
+2024-05-14 03:15:25 - Plafond insuficiente
+2024-05-14 03:15:26 - Plafond insuficiente
+2024-05-14 03:15:26 - Plafond insuficiente
+2024-05-14 03:15:27 - Plafond insuficiente
+2024-05-14 03:15:28 - Plafond insuficiente
+2024-05-14 03:15:29 - Plafond insuficiente
+2024-05-14 03:15:30 - Plafond insuficiente
+2024-05-14 03:15:30 - Plafond insuficiente
+2024-05-14 03:15:31 - Plafond insuficiente
+2024-05-14 03:15:31 - Plafond insuficiente
+2024-05-14 03:15:32 - Plafond insuficiente
+2024-05-14 03:15:33 - Plafond insuficiente
+2024-05-14 03:15:34 - Plafond insuficiente
+2024-05-14 03:15:35 - Plafond insuficiente
+2024-05-14 03:15:36 - Plafond insuficiente
+2024-05-14 03:15:36 - Plafond insuficiente
+2024-05-14 03:15:37 - Plafond insuficiente
+2024-05-14 03:15:38 - Plafond insuficiente
+2024-05-14 03:15:39 - Plafond insuficiente
+2024-05-14 03:15:40 - Plafond insuficiente
+2024-05-14 03:16:04 - Início do programa
+2024-05-14 03:16:04 - Processo System Manager criado
+2024-05-14 03:16:04 - Processo Monitor Engine criado
+2024-05-14 03:16:04 - Processo Auth Request Manager criado
+2024-05-14 03:16:04 - Criação da thread sender
+2024-05-14 03:16:04 - Criação da thread receiver
+2024-05-14 03:16:07 - Fim do programa
+2024-05-14 03:20:56 - Início do programa
+2024-05-14 03:20:56 - Processo System Manager criado
+2024-05-14 03:20:56 - Processo Monitor Engine criado
+2024-05-14 03:20:56 - Processo Auth Request Manager criado
+2024-05-14 03:20:56 - Criação da thread sender
+2024-05-14 03:20:56 - Criação da thread receiver
+2024-05-14 03:21:22 - Plafond insuficiente
+2024-05-14 03:21:23 - Plafond insuficiente
+2024-05-14 03:21:23 - Plafond insuficiente
+2024-05-14 03:21:24 - Plafond insuficiente
+2024-05-14 03:21:25 - Plafond insuficiente
+2024-05-14 03:21:26 - Plafond insuficiente
+2024-05-14 03:21:27 - Plafond insuficiente
+2024-05-14 03:21:27 - Plafond insuficiente
+2024-05-14 03:21:28 - Plafond insuficiente
+2024-05-14 03:21:28 - Plafond insuficiente
+2024-05-14 03:21:29 - Plafond insuficiente
+2024-05-14 03:21:30 - Plafond insuficiente
+2024-05-14 03:21:31 - Plafond insuficiente
+2024-05-14 03:21:32 - Plafond insuficiente
+2024-05-14 03:21:33 - Plafond insuficiente
+2024-05-14 03:21:33 - Plafond insuficiente
+2024-05-14 03:21:34 - Plafond insuficiente
+2024-05-14 03:21:35 - Plafond insuficiente
+2024-05-14 03:21:36 - Plafond insuficiente
+2024-05-14 03:21:37 - Plafond insuficiente
+2024-05-14 03:22:29 - Plafond insuficiente
+2024-05-14 03:22:30 - Plafond insuficiente
+2024-05-14 03:22:31 - Plafond insuficiente
+2024-05-14 03:22:32 - Plafond insuficiente
+2024-05-14 03:22:33 - Plafond insuficiente
+2024-05-14 03:22:34 - Plafond insuficiente
+2024-05-14 03:22:34 - Plafond insuficiente
+2024-05-14 03:22:35 - Plafond insuficiente
+2024-05-14 03:22:36 - Plafond insuficiente
+2024-05-14 03:22:37 - Plafond insuficiente
+2024-05-14 03:22:38 - Plafond insuficiente
+2024-05-14 03:22:39 - Plafond insuficiente
+2024-05-14 03:22:40 - Plafond insuficiente
+2024-05-14 03:22:41 - Plafond insuficiente
+2024-05-14 03:22:42 - Plafond insuficiente
+2024-05-14 03:22:43 - Plafond insuficiente
+2024-05-14 03:22:44 - Plafond insuficiente
+2024-05-14 03:23:59 - Erro ao desalocar a shared memory
+2024-05-14 03:23:59 - Erro ao desalocar a shared memory
+2024-05-14 03:23:59 - Erro ao desalocar a shared memory
+2024-05-14 03:23:59 - Erro ao desalocar a shared memory
+2024-05-14 03:23:59 - Erro ao desalocar a shared memory
+2024-05-14 03:23:59 - Erro ao desalocar a shared memory
+2024-05-14 03:23:59 - Erro ao desalocar a shared memory
+2024-05-14 03:23:59 - Erro ao desalocar a shared memory
+2024-05-14 03:23:59 - Fim do programa
+2024-05-14 03:28:13 - Início do programa
+2024-05-14 03:28:13 - Processo System Manager criado
+2024-05-14 03:28:13 - Processo Monitor Engine criado
+2024-05-14 03:28:14 - Processo Auth Request Manager criado
+2024-05-14 03:28:14 - Criação da thread sender
+2024-05-14 03:28:14 - Criação da thread receiver
+2024-05-14 03:28:17 - Erro ao desalocar a shared memory
+2024-05-14 03:28:17 - Erro ao desalocar a shared memory
+2024-05-14 03:28:17 - Erro ao desalocar a shared memory
+2024-05-14 03:28:17 - Erro ao desalocar a shared memory
+2024-05-14 03:28:17 - Erro ao desalocar a shared memory
+2024-05-14 03:28:17 - Erro ao desalocar a shared memory
+2024-05-14 03:28:17 - Erro ao desalocar a shared memory
+2024-05-14 03:28:17 - Erro ao desalocar a shared memory
+2024-05-14 03:28:17 - Fim do programa
+2024-05-14 03:30:49 - Início do programa
+2024-05-14 03:30:49 - Processo System Manager criado
+2024-05-14 03:30:49 - Processo Monitor Engine criado
+2024-05-14 03:30:49 - Processo Auth Request Manager criado
+2024-05-14 03:30:49 - Criação da thread sender
+2024-05-14 03:30:49 - Criação da thread receiver
+2024-05-14 03:30:50 - Fim do programa
+2024-05-14 03:51:22 - Início do programa
+2024-05-14 03:51:22 - Processo System Manager criado
+2024-05-14 03:51:22 - Processo Monitor Engine criado
+2024-05-14 03:51:22 - Processo Auth Request Manager criado
+2024-05-14 03:51:22 - Criação da thread sender
+2024-05-14 03:51:22 - Criação da thread receiver
+2024-05-14 03:51:44 - Fim do programa
+2024-05-14 03:52:16 - Início do programa
+2024-05-14 03:52:16 - Processo System Manager criado
+2024-05-14 03:52:16 - Processo Monitor Engine criado
+2024-05-14 03:52:16 - Processo Auth Request Manager criado
+2024-05-14 03:52:16 - Criação da thread sender
+2024-05-14 03:52:16 - Criação da thread receiver
+2024-05-14 03:53:12 - Fim do programa
+2024-05-14 03:57:24 - Início do programa
+2024-05-14 03:57:24 - Processo System Manager criado
+2024-05-14 03:57:24 - Processo Monitor Engine criado
+2024-05-14 03:57:24 - Processo Auth Request Manager criado
+2024-05-14 03:57:24 - Criação da thread sender
+2024-05-14 03:57:24 - Criação da thread receiver
+2024-05-14 03:57:28 - Início do programa
+2024-05-14 03:57:28 - Processo System Manager criado
+2024-05-14 03:57:28 - Processo Monitor Engine criado
+2024-05-14 03:57:28 - Processo Auth Request Manager criado
+2024-05-14 03:57:28 - Criação da thread sender
+2024-05-14 03:57:28 - Criação da thread receiver
+2024-05-14 03:57:42 - Início do programa
+2024-05-14 03:57:42 - Processo System Manager criado
+2024-05-14 03:57:42 - Processo Monitor Engine criado
+2024-05-14 03:57:42 - Processo Auth Request Manager criado
+2024-05-14 03:57:42 - Criação da thread sender
+2024-05-14 03:57:42 - Criação da thread receiver
+2024-05-14 03:58:15 - Início do programa
+2024-05-14 03:58:15 - Processo System Manager criado
+2024-05-14 03:58:15 - Processo Monitor Engine criado
+2024-05-14 03:58:15 - Processo Auth Request Manager criado
+2024-05-14 03:58:15 - Criação da thread sender
+2024-05-14 03:58:15 - Criação da thread receiver
+2024-05-14 03:59:00 - Início do programa
+2024-05-14 03:59:00 - Processo System Manager criado
+2024-05-14 03:59:00 - Processo Monitor Engine criado
+2024-05-14 03:59:00 - Processo Auth Request Manager criado
+2024-05-14 03:59:00 - Criação da thread sender
+2024-05-14 03:59:00 - Criação da thread receiver
+2024-05-14 03:59:56 - Início do programa
+2024-05-14 03:59:56 - Processo System Manager criado
+2024-05-14 03:59:56 - Processo Monitor Engine criado
+2024-05-14 03:59:56 - Processo Auth Request Manager criado
+2024-05-14 03:59:56 - Criação da thread sender
+2024-05-14 03:59:56 - Criação da thread receiver
+2024-05-14 04:03:53 - Início do programa
+2024-05-14 04:03:53 - Processo System Manager criado
+2024-05-14 04:03:53 - Processo Monitor Engine criado
+2024-05-14 04:03:53 - Processo Auth Request Manager criado
+2024-05-14 04:03:53 - Criação da thread sender
+2024-05-14 04:03:53 - Criação da thread receiver
+2024-05-14 04:03:57 - Fim do programa
+2024-05-14 04:04:03 - Início do programa
+2024-05-14 04:04:03 - Processo System Manager criado
+2024-05-14 04:04:03 - Processo Auth Request Manager criado
+2024-05-14 04:04:03 - Processo Monitor Engine criado
+2024-05-14 04:04:03 - Criação da thread sender
+2024-05-14 04:04:03 - Criação da thread receiver
+2024-05-14 04:13:52 - Início do programa
+2024-05-14 04:13:52 - Processo System Manager criado
+2024-05-14 04:13:52 - Processo Monitor Engine criado
+2024-05-14 04:13:52 - Processo Auth Request Manager criado
+2024-05-14 04:13:52 - Criação da thread sender
+2024-05-14 04:13:52 - Criação da thread receiver
+2024-05-14 04:14:18 - Início do programa
+2024-05-14 04:14:18 - Processo System Manager criado
+2024-05-14 04:14:18 - Processo Monitor Engine criado
+2024-05-14 04:14:18 - Processo Auth Request Manager criado
+2024-05-14 04:14:18 - Criação da thread sender
+2024-05-14 04:14:18 - Criação da thread receiver
+2024-05-14 04:14:20 - Início do programa
+2024-05-14 04:14:20 - Processo System Manager criado
+2024-05-14 04:14:20 - Processo Monitor Engine criado
+2024-05-14 04:14:20 - Processo Auth Request Manager criado
+2024-05-14 04:14:20 - Criação da thread sender
+2024-05-14 04:14:20 - Criação da thread receiver
+2024-05-14 04:15:15 - Início do programa
+2024-05-14 04:15:15 - Processo System Manager criado
+2024-05-14 04:15:15 - Processo Monitor Engine criado
+2024-05-14 04:15:15 - Processo Auth Request Manager criado
+2024-05-14 04:15:15 - Criação da thread sender
+2024-05-14 04:15:15 - Criação da thread receiver
+2024-05-14 04:15:18 - Início do programa
+2024-05-14 04:15:18 - Processo System Manager criado
+2024-05-14 04:15:18 - Processo Monitor Engine criado
+2024-05-14 04:15:18 - Processo Auth Request Manager criado
+2024-05-14 04:15:18 - Criação da thread sender
+2024-05-14 04:15:18 - Criação da thread receiver
+2024-05-14 04:15:21 - Fim do programa
+2024-05-14 04:15:27 - Início do programa
+2024-05-14 04:15:27 - Processo System Manager criado
+2024-05-14 04:15:27 - Processo Monitor Engine criado
+2024-05-14 04:15:27 - Processo Auth Request Manager criado
+2024-05-14 04:15:27 - Criação da thread sender
+2024-05-14 04:15:27 - Criação da thread receiver
+2024-05-14 04:15:42 - Fim do programa
+2024-05-14 04:15:44 - Início do programa
+2024-05-14 04:15:44 - Processo System Manager criado
+2024-05-14 04:15:44 - Processo Monitor Engine criado
+2024-05-14 04:15:44 - Processo Auth Request Manager criado
+2024-05-14 04:15:44 - Criação da thread sender
+2024-05-14 04:15:44 - Criação da thread receiver
+2024-05-14 04:15:56 - Fim do programa
+2024-05-14 04:22:20 - Início do programa
+2024-05-14 04:22:20 - Processo System Manager criado
+2024-05-14 04:22:20 - Processo Monitor Engine criado
+2024-05-14 04:22:20 - Processo Auth Request Manager criado
+2024-05-14 04:22:20 - Criação da thread sender
+2024-05-14 04:22:20 - Criação da thread receiver
+2024-05-14 04:22:27 - Plafond insuficiente
+2024-05-14 04:22:28 - Plafond insuficiente
+2024-05-14 04:22:29 - Plafond insuficiente
+2024-05-14 04:22:30 - Plafond insuficiente
+2024-05-14 04:22:31 - Plafond insuficiente
+2024-05-14 04:22:32 - Plafond insuficiente
+2024-05-14 04:22:32 - Plafond insuficiente
+2024-05-14 04:22:33 - Plafond insuficiente
+2024-05-14 04:22:34 - Plafond insuficiente
+2024-05-14 04:22:35 - Plafond insuficiente
+2024-05-14 04:22:36 - Plafond insuficiente
+2024-05-14 04:22:37 - Plafond insuficiente
+2024-05-14 04:22:38 - Plafond insuficiente
+2024-05-14 04:22:38 - Plafond insuficiente
+2024-05-14 04:22:39 - Plafond insuficiente
+2024-05-14 04:22:40 - Plafond insuficiente
+2024-05-14 04:22:41 - Plafond insuficiente
+2024-05-14 04:22:42 - Plafond insuficiente
+2024-05-14 04:27:16 - Início do programa
+2024-05-14 04:27:16 - Processo System Manager criado
+2024-05-14 04:27:16 - Processo Monitor Engine criado
+2024-05-14 04:27:16 - Processo Auth Request Manager criado
+2024-05-14 04:27:16 - Criação da thread sender
+2024-05-14 04:27:16 - Criação da thread receiver
+2024-05-14 04:27:24 - Plafond insuficiente
+2024-05-14 04:27:25 - Plafond insuficiente
+2024-05-14 04:27:25 - Plafond insuficiente
+2024-05-14 04:27:26 - Plafond insuficiente
+2024-05-14 04:27:27 - Plafond insuficiente
+2024-05-14 04:27:28 - Plafond insuficiente
+2024-05-14 04:27:29 - Plafond insuficiente
+2024-05-14 04:27:29 - Plafond insuficiente
+2024-05-14 04:27:30 - Plafond insuficiente
+2024-05-14 04:27:30 - Plafond insuficiente
+2024-05-14 04:27:31 - Plafond insuficiente
+2024-05-14 04:27:32 - Plafond insuficiente
+2024-05-14 04:27:33 - Plafond insuficiente
+2024-05-14 04:27:34 - Plafond insuficiente
+2024-05-14 04:27:35 - Plafond insuficiente
+2024-05-14 04:27:35 - Plafond insuficiente
+2024-05-14 04:27:36 - Plafond insuficiente
+2024-05-14 04:27:37 - Plafond insuficiente
+2024-05-14 04:27:38 - Plafond insuficiente
+2024-05-14 04:27:39 - Plafond insuficiente
+2024-05-14 04:31:38 - Início do programa
+2024-05-14 04:31:38 - Processo System Manager criado
+2024-05-14 04:31:38 - Processo Monitor Engine criado
+2024-05-14 04:31:38 - Processo Auth Request Manager criado
+2024-05-14 04:31:38 - Criação da thread sender
+2024-05-14 04:31:38 - Criação da thread receiver
+2024-05-14 04:39:04 - Início do programa
+2024-05-14 04:39:04 - Processo System Manager criado
+2024-05-14 04:39:04 - Processo Monitor Engine criado
+2024-05-14 04:39:04 - Processo Auth Request Manager criado
+2024-05-14 04:39:04 - Criação da thread sender
+2024-05-14 04:39:04 - Criação da thread receiver
+2024-05-14 04:44:26 - Início do programa
+2024-05-14 04:44:26 - Processo System Manager criado
+2024-05-14 04:44:26 - Processo Monitor Engine criado
+2024-05-14 04:44:26 - Processo Auth Request Manager criado
+2024-05-14 04:44:26 - Criação da thread sender
+2024-05-14 04:44:26 - Criação da thread receiver
+2024-05-14 04:44:35 - Plafond insuficiente
+2024-05-14 04:44:36 - Plafond insuficiente
+2024-05-14 04:44:36 - Plafond insuficiente
+2024-05-14 04:44:37 - Plafond insuficiente
+2024-05-14 04:44:38 - Plafond insuficiente
+2024-05-14 04:44:39 - Plafond insuficiente
+2024-05-14 04:44:40 - Plafond insuficiente
+2024-05-14 04:44:40 - Plafond insuficiente
+2024-05-14 04:44:41 - Plafond insuficiente
+2024-05-14 04:44:41 - Plafond insuficiente
+2024-05-14 04:44:42 - Plafond insuficiente
+2024-05-14 04:44:43 - Plafond insuficiente
+2024-05-14 04:44:44 - Plafond insuficiente
+2024-05-14 04:44:45 - Plafond insuficiente
+2024-05-14 04:45:39 - Início do programa
+2024-05-14 04:45:39 - Processo System Manager criado
+2024-05-14 04:45:39 - Processo Monitor Engine criado
+2024-05-14 04:45:39 - Processo Auth Request Manager criado
+2024-05-14 04:45:39 - Criação da thread sender
+2024-05-14 04:45:39 - Criação da thread receiver
+2024-05-14 04:46:04 - Início do programa
+2024-05-14 04:46:04 - Processo System Manager criado
+2024-05-14 04:46:04 - Processo Monitor Engine criado
+2024-05-14 04:46:04 - Processo Auth Request Manager criado
+2024-05-14 04:46:04 - Criação da thread sender
+2024-05-14 04:46:04 - Criação da thread receiver
+2024-05-14 04:46:13 - Início do programa
+2024-05-14 04:46:13 - Processo System Manager criado
+2024-05-14 04:46:13 - Processo Monitor Engine criado
+2024-05-14 04:46:13 - Processo Auth Request Manager criado
+2024-05-14 04:46:13 - Criação da thread sender
+2024-05-14 04:46:13 - Criação da thread receiver

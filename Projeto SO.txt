@@ -1,4 +1,4 @@
-Projeto SO
+Projeto SO		// -> Feito   |    /X -> Meio Feito   |    X -> Por Fazer   |  !! -> Coisas que temos de implementar
 
 
 	Mobile user:
@@ -13,6 +13,7 @@ Projeto SO
 		Solicitar stat -//
 		Solicitar reset -//
 		named pipe -//
+		!!Quando termina com Sigint não está a libertar devidamente
 
 	System Manager:
 		
@@ -34,8 +35,8 @@ Projeto SO
 	Receiver:
 
 		Receber e ler os pipes - //
-		Colocar nas respetivas Queues - X
-		Fila Cheia - X
+		Colocar nas respetivas Queues - //
+		Fila Cheia - //
 
 	Sender:
 
